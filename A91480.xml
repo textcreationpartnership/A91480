@@ -1,0 +1,1012 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chymia cœlestis. Drops from heaven; or, Pious meditations and prayers on several places of Scripture. / By Ben. Parry, Gent.</title>
+            <author>Parry, Benjamin, 1634-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 137 KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91480</idno>
+            <idno type="STC">Wing P553</idno>
+            <idno type="STC">Thomason E1883_1</idno>
+            <idno type="STC">ESTC R210109</idno>
+            <idno type="EEBO-CITATION">99868936</idno>
+            <idno type="PROQUEST">99868936</idno>
+            <idno type="VID">170521</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91480)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170521)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 234:E1883[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Chymia cœlestis. Drops from heaven; or, Pious meditations and prayers on several places of Scripture. / By Ben. Parry, Gent.</title>
+                  <author>Parry, Benjamin, 1634-1678.</author>
+               </titleStmt>
+               <extent>[10], 121, [9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Humphrey Mosley, and are to be sold at his shop, at the Prince's Armes in St Paul's Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "May".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meditations --  Early works to 1800.</term>
+               <term>Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170521:1" rendition="simple:additions"/>
+            <p>
+               <hi>Chymia Coeleſtis.</hi> DROPS FROM HEAVEN; OR, PIOUS MEDITATIONS AND PRAYERS On ſeverall places of Scripture.</p>
+            <p>By <hi>Ben. Parry,</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Humphrey Moſeley,</hi> and are to be ſold at his ſhop, at the <hi>Prince</hi>'s <hi>Armes</hi> in St <hi>Paul</hi>'s Church-yard. 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170521:2"/>
+            <pb facs="tcp:170521:2"/>
+            <head>To His Highly Honored Friend <hi>WILLIAM GLYNNE,</hi> Eſquier.</head>
+            <opener>
+               <salute>Deare Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>Ive me leave to pre<g ref="char:EOLhyphen"/>ſent you with a few meditations, which owe their birth to that place wherein your Honourable Father received his; and therefore by a kind of Alliance may ſeem to challenge your acceptance. The ſolemne retirements of thoſe ſilent walks, gave life to theſe thoughts; which now under your name dare ſhew themſelves abroad, and from the ſociety of Groves and Ecchoes take the liberty of a more open
+<pb facs="tcp:170521:3"/> view: They are not that which the world uſually calls by the name of ſtudy (though heaven cannot be too much ſtudied on) but the exerciſe only of a few ſpare thoughts ſome<g ref="char:EOLhyphen"/>times, on a pious ſubject; a tribute, which no Godly mind can pay too often. And I was the more ambiti<g ref="char:EOLhyphen"/>ous, they ſhould receive the honour of their Dedication from your hand as being ſo well acquainted with your vertue, and the nobleneſſe of your ſpirit; which is already be<g ref="char:EOLhyphen"/>come its owne Herauld, beyond the loudeſt Encomium my pen can give. Let Philoſophers count the orbes and reckon up the ſtarres, none can ſpeak ſo feelingly of Hea<g ref="char:EOLhyphen"/>ven as he that loves it beſt. Of all Knowledge, experimentall is the nobleſt; and of all Meditation, that which informs not onely the mind, but the manners too. The end of Di<g ref="char:EOLhyphen"/>vine Contemplation is reformati<g ref="char:EOLhyphen"/>on, and he is but a dry Chriſtian whoſe life conſiſts more in ſpecu<g ref="char:EOLhyphen"/>lation
+<pb facs="tcp:170521:3"/> then in practiſe: and though I am no Preacher, yet I hope, with<g ref="char:EOLhyphen"/>out putting me to the trouble of a Complementall excuſe for being in print, you will pardon my ambi<g ref="char:EOLhyphen"/>tion, if, deſirous to acknowledg my engagements to your Noble Relati<g ref="char:EOLhyphen"/>ons (as a teſtimony of my reſpects to your ſelfe) I have made choice of this, having no other way to ma<g ref="char:EOLhyphen"/>nifeſt how much I deſire to be e<g ref="char:EOLhyphen"/>ſteemed,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your affectionate ſervant. <hi>BEN. PARRY.</hi>
+               </signed>
+               <dateline>
+                  <hi>Oxford</hi>
+                  <date>
+                     <hi>Novemb.</hi> 1658.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170521:4"/>
+            <pb facs="tcp:170521:4"/>
+            <head>The Epiſtle to the READER.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>Erhaps the Title may In<g ref="char:EOLhyphen"/>vite thy Eye, though the meanneſſe of the Comment may not merit thy Peruſal. They are indeed the ex<g ref="char:EOLhyphen"/>periments of but a very <hi>young</hi> pen, though the ſubjects are ſo divine, they would finde worke enough for the Gra<g ref="char:EOLhyphen"/>veſt in that Profeſſion. And they have ſo little of any affected or elaborate Cu<g ref="char:EOLhyphen"/>rioſity, that I need not tell thee, They are onely the ſudden effuſions of a few pious minutes in my vacancies from o<g ref="char:EOLhyphen"/>ther studies. And who can Imploy his thoughts better at any time?</p>
+            <p>And therefore I took no other pains than not to breathe them to the Ayre onely, but ſome Noble
+<hi>Conſer<g ref="char:EOLhyphen"/>vator</hi>
+               <pb facs="tcp:170521:5"/> that might recal my thoughts; and put me in mind againe of That which ſo equally concernes all <hi>Eter<g ref="char:EOLhyphen"/>nity.</hi>
+            </p>
+            <p>If you wonder at their haſty ambi<g ref="char:EOLhyphen"/>tion of being in Print. It was not in<g ref="char:EOLhyphen"/>deed the
+<hi>Requeſt</hi> of <hi>Friends,</hi> or any ſuch thred-bare motive, that <hi>ſtole</hi> them out. I knew not well what elſe to do with them, and therefore thought it as good to let them be loſt in the World as in my Trunck: And though I am not ſo confident, as to think they are ſo good as to merit thy Applauſe; yet I hope they are not ſo bad, but they may be worth the Reading.</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="meditations">
+            <pb facs="tcp:170521:5"/>
+            <head>
+               <hi>Chymia Coeleſtis.</hi> Drops from Heaven; OR, Pious Meditations and PRAYERS.</head>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>ECCLES. chap. 12. v. 1.</hi>
+                     </bibl>
+                     <p>Remember now thy Creatour in the dayes of thy youth.</p>
+                  </q>
+               </epigraph>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">R</seg>Emember thy Creatour,</hi> &amp;c. It is one of the beſt expreſſi<g ref="char:EOLhyphen"/>ons in the Preacher's Ser<g ref="char:EOLhyphen"/>mon: For who knows whe<g ref="char:EOLhyphen"/>ther he ſhall live to be old? And yet that voice which ſpeaks ſo loudly to the whole World, and ſtill will tell the end thereof, is ſcarce audible in the eares of many. 'Tis one of this Divine Singer's moſt harmonious Leſ<g ref="char:EOLhyphen"/>ſons; and yet the World is not pleas'd
+<pb n="2" facs="tcp:170521:6"/> with the <hi>tune:</hi> Strange! that the Sweet<g ref="char:EOLhyphen"/>eſt of Preachers ſhould have ſo few fol<g ref="char:EOLhyphen"/>lowers being his oratory is ſo Divine: and yet it is a Text, which though they will neither hear nor read, they cannot chuſe but ſee; for the whole world is but a Comment on it: Every Creature we do but look on, preaches this Doc<g ref="char:EOLhyphen"/>trine, which we can ſo careleſly ſleep out, with our eyes open. Nature car<g ref="char:EOLhyphen"/>ries this memento in her forehead; the very Brutes in this can reaſon with us; and it is ſtrange that Man ſhould <hi>forget</hi> his <hi>Maker,</hi> did he but <hi>remember himſelf:</hi> But alaſs, youth loves not to be put in mind of Heaven, 't would ſpoyle his memory, and make him thinke of his Prayers too often. Piety, will but dull his blood, Religion makes him look old; the thoughts of Heaven, and ano<g ref="char:EOLhyphen"/>ther World will make him graver then becomes his yeers, his blood tels him he is not yet in a temper to turne Divine, he may ſerve God time enough, when he can doe nothing elſe; Thus theſe earthly objects of Pleaſure hurrie away our thoughts from Heaven and its Pu<g ref="char:EOLhyphen"/>rer Joyes; we can ſpend the beauty of our years in vice, and think to pleaſe God well enough with the deformi<g ref="char:EOLhyphen"/>ties
+<pb n="3" facs="tcp:170521:6"/> of age: wee can revell our piety and time away in vain delights, and thinke our ſelves ſtrong enough to force Hea<g ref="char:EOLhyphen"/>ven, and become religious when we are wither'd with infirmities, and have no<g ref="char:EOLhyphen"/>thing left us but <hi>repentance</hi> and a <hi>tomb.</hi> We are ſo well pleaſed with the ſweet<g ref="char:EOLhyphen"/>neſſe of ſenſe, that wee are careleſs of any other felicity; and ſo much delight<g ref="char:EOLhyphen"/>ed with the happineſſe of ſinning <hi>free<g ref="char:EOLhyphen"/>ly,</hi> that we could willingly be of that Religion which tolerates vice moſt. We place our devotion with the Epicure in the riots of Nature, ſportfull mee<g ref="char:EOLhyphen"/>tings are our religious Exerciſes, a Ser<g ref="char:EOLhyphen"/>mon is as troubleſome as a Funeral to us; to hear of our end amidſt our plea<g ref="char:EOLhyphen"/>ſure ſounds like a death's Lecture, the unwelcome eccho of the Grave. Let the Preacher leſſon us never ſo well, to remember our Maker, Wee had rather follow Satan's doctrine to Injoy the World as long as we can, and thinke of Heaven at our leiſure.</p>
+               <p>And ſhall the Luſts of the World, O Lord, be greater in my Soul then the Love of thee? ſhall the temporary de<g ref="char:EOLhyphen"/>lights of ſin drown the memory of thy glory? My Life is but a Span, and yet I beſeech thee ſhorten that rather then
+<pb n="4" facs="tcp:170521:7"/> it ſhould be ſpent in a neglect of Thee: better this Earthly
+<hi>tabernacle</hi> ſhould be diſſolved, then become a <hi>Theatre</hi> for ſin to revell in; Let me pay Nature the debt I owe her, ſooner then perhaps ſhe would call for it, rather than run in ſcore with thy Juſtice: 'tis better I ſhould dye and be loſt in the memory of the World, than forget Thee: Thou broughteſt me from nothing, not to <hi>ſin,</hi> but to
+<hi>ſerve</hi> thee, and haſt imprinted in me a ray of Thy ſelf, that I might not ſeek
+<hi>mine</hi> own, but <hi>Thy</hi> Will, nor pur<g ref="char:EOLhyphen"/>ſue the World but Heaven; make me therefore to ſee the ſolid and raviſhing conſolation that is in ſerving thee; what Joy accompanies thy grace, that ſo I may no longer follow my <hi>ſenſe</hi> but my <hi>Saviour.</hi> It is none of the leaſt ſins of our youth that we are careleſſe and forgetfull of Thee our Creatour: and no wonder we are ſo inſenſible of the Joyes to Come, that live in ſuch a conſtant and continued neglect of Hea<g ref="char:EOLhyphen"/>ven.</p>
+               <p>Make me therefore, O my God, to conſider, that had I the fruition of all that I can wiſh, or long for here, I ſhould not onely not be ſatisfied but in the end find how miſerable he is that
+<pb n="5" facs="tcp:170521:7"/> ſetteth his heart on any thing but Thy ſelfe: teach me therefore ſo to enjoy the World that I loſe not thee, nor the memory of that Bleſſed reward thou haſt promiſed to them that Honour Thee.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>GEN. Chap. 2. v. 8.</hi>
+                     </bibl>
+                     <p>And the Lord God planted a Garden East-ward in Eden.</p>
+                  </q>
+               </epigraph>
+               <p>WHat an <hi>airy fancy</hi> was it of ſome then, to place Paradiſe beyond the
+<hi>middle</hi> region? could they tranſplant the earth at pleaſure? or did the clouds, like ſo many moving walks, become a ſeminary of vegetables? Was <hi>Eraſmus</hi> of this opinion when he wiſht himſelfe en<g ref="char:EOLhyphen"/>caged betwixt heaven and earth? How vaine is ambitious frailty in its queſt after knowledge! We ſearch for Paradiſe with more <hi>Curioſity</hi> then <hi>Adam loſt</hi> it: and when we cannot find it here, yet we will <hi>fancy</hi> it a place, though above our reach. That there was a Paradiſe, we need not doubt; He that made it tells us ſo: but where to find it, he that <hi>loſt</hi> it, <hi>knowes not.</hi> So ſuddenly doth
+<hi>ſin</hi> blaſt
+<pb n="6" facs="tcp:170521:8"/> our moſt innocent pleaſures. Scarce had Man taken a view or walke in Para<g ref="char:EOLhyphen"/>diſe, but this expell'd him: the earth was but in its youth, ſcarce warm'd by the new
+<hi>born</hi> Sun, when this wither'd it into a <hi>ſterill</hi> and decrepit
+<hi>Complexion:</hi> nay the heavens, ſcarce ſeated in their orbs, were ſhaken by it, and interrupted al<g ref="char:EOLhyphen"/>moſt in their Motions by the <hi>pride</hi> and <hi>fall</hi> of Angells. No ſooner had the Ser<g ref="char:EOLhyphen"/>pent breath'd out his Contagion, but Paradiſe changed it's <hi>vordure.</hi> The Crea<g ref="char:EOLhyphen"/>tures fly from the Garden of the world; and infected Man is ſhut out from his beautifull encloſure: he that was an In<g ref="char:EOLhyphen"/>habitant of pleaſure it ſelf, for whom the moſt choiſe and various fragrancies of the New Created earth were epito<g ref="char:EOLhyphen"/>miſed together, is <hi>ſtript</hi> and cheated of his <hi>happineſſe</hi> by the <hi>Spirit</hi> of <hi>lies,</hi> and is glad to be beholding to a <hi>Figtree</hi> for his firſt <hi>veſtment.</hi> How perfectly hath his
+<hi>naked Iſſue</hi> inherited his fortune? how many of his wretched ſons have been ever ſince ſelling their <hi>Paradiſe</hi> for an <hi>Apple?</hi> How does the Covetous wretch adore his Mammon, his yellow God, and Coines heaven and his <hi>Salvation</hi> into <hi>Money,</hi> though the <hi>ſtamp</hi> be Hell, or the image of the <hi>beaſt?</hi> how readily will
+<pb n="7" facs="tcp:170521:8"/> ambition Court Hell it ſelfe to ſerve his intereſt, make no ſcruple to ſell his Soul for a Glorious vanity, and worſhip Satan for a kingdome? how does the
+<hi>Senſualiſt</hi> make his life an <hi>enterlude,</hi> leaving Paradiſe for
+<hi>Tantalus</hi> his Gar<g ref="char:EOLhyphen"/>den, and makes <hi>wantonneſſe</hi> his <hi>heaven,</hi> pleaſure his Divinity, and never thinks of a better or another life, but when he is in danger of loſing
+<hi>this?</hi> How many <hi>upſtart</hi> lights hath <hi>Satan</hi> ſprung to <hi>dar<g ref="char:EOLhyphen"/>ken</hi> Religion, and eclipſe the Goſpell? how many eyes hath he put out by opening; pretending to cloathe us with more Knowledge and Sanctity, that he might diſmantle us of heaven and hap<g ref="char:EOLhyphen"/>pineſſe? I had rather be for ever blind then uſe an eye-ſalve of the Divells pre<g ref="char:EOLhyphen"/>ſcribing; and be for ever ignorant then learne Satans leſſon, to belie heaven and diſtruſt my Maker.</p>
+               <p>So miſerable hath ſin made us, O Lord, that by it we have loſt not onely Paradiſe but heaven too; forfeited not onely the pleaſures of this <hi>life,</hi> but alſo the joyes to Come, and with the true Comforts of the world are ſtript of thy favour too. He whom thou madeſt the <hi>Monarch</hi> of the Creatures, grones un<g ref="char:EOLhyphen"/>der the <hi>bondage of ſin;</hi> and by the Miſery
+<pb n="8" facs="tcp:170521:9"/> of his Crimes, hath cancell'd almoſt the glory and miracles of thy work. And now might we have been extinguiſht in our guilt, had not He, who is the brightneſs of thy Glory dropt a new life into our eclipſed natures by the pow<g ref="char:EOLhyphen"/>er of his Blood and Merits; and, by re<g ref="char:EOLhyphen"/>conciling us to thy ſelfe, given us an admiſſion to better and more enduring pleaſures. Grant therefore that having obtained mercy, we may walke accor<g ref="char:EOLhyphen"/>dingly; that being <hi>bought</hi> for heaven, we may no more <hi>ſell</hi> our ſelves to ſin, nor vainely preferre a few moments of pleaſure before an eternity of joy; that ſo, when our ſouls ſhall expire with our breath, they may be tranſplanted to that Paradiſe that never fades, and enjoy the pleaſures of eternity in the boſome of thy Glory.</p>
+            </div>
+            <div type="meditation">
+               <pb n="9" facs="tcp:170521:9"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>1 King. Chap. 10. v. 18.</hi>
+                     </bibl>
+                     <p>Moreover the King made a great Throne of Ivory, and overlay'd it with the beſt Gold.</p>
+                  </q>
+               </epigraph>
+               <p>Twas fit that the beſt of Kings ſhould be ſutably ſerv'd; and now he ſees himſelfe in ſo glorious a condition, he need not repent of that happy and eter<g ref="char:EOLhyphen"/>nall <hi>election</hi> he made in <hi>Gibeon:</hi> where amongſt all his Sacrifices there was none ſo pleaſing as that which he made <hi>of himſelfe</hi> to the diſpoſall of his God. Did the Princes of the world but make <hi>Solomon</hi> their <hi>Pattern,</hi> they might parti<g ref="char:EOLhyphen"/>cipate of <hi>his fortune,</hi> and find a more Glorious Hand ſupporting their Scep<g ref="char:EOLhyphen"/>ters, beyond the reach of the moſt ad<g ref="char:EOLhyphen"/>mired
+<hi>Achitophel.</hi> 'Tis not the paint but the piety of a Throne that both ſecures and adornes it. He muſt needs be the <hi>greateſt</hi> of Princes whom God <hi>Crownes;</hi> the
+<hi>richeſt</hi> Monarch, that, beſides the enjoyments of the world, receives even a
+<hi>Treaſure</hi> from heaven. Piety never went unrewarded. God can beſtow on his, as well the felicities of this life, as that which is hereafter. But if Solomon
+<pb n="10" facs="tcp:170521:10"/> 
+                  <hi>bow downe</hi> to <hi>Harlots,</hi> his <hi>Crown muſt fal;</hi> and if he forſakes God, ſin <hi>dethrones</hi> him. Greatneſſe cannot priviledge from pu<g ref="char:EOLhyphen"/>niſhment, nor the <hi>eminency</hi> of a Throne excuſe the <hi>guilt</hi> thereof. He that
+<hi>breath'd</hi> out ſo many Divine Songs, is ſtruck <hi>dumbe</hi> at the aires of a female tongue, and thoſe Ivory ſteps the ſeat of Honour grow <hi>black</hi> with ſin. Had his Guard of Lyons proved <hi>true,</hi> they would have quickly diſmembred thoſe <hi>Syrens,</hi> that having loſt their vertue had nothing but their <hi>vices</hi> left to charm their
+<hi>fury</hi> with. <hi>Solomons</hi> youthfullneſſe in his old <hi>age,</hi> praecipitated him the ſooner to his <hi>end,</hi> the end both of his <hi>life</hi> and <hi>Glory.</hi>
+               </p>
+               <p>O Lord, if Solomon's <hi>Throne</hi> was ſo glorious, how infinitely tranſcendent muſt
+<hi>Thine</hi> be, from whom <hi>Solomon re<g ref="char:EOLhyphen"/>ceived his: that</hi> under which the pillars of the earth tremble and in compariſon of which the luſtre of the heavens is but a <hi>ſpark.</hi> Though thou haſt many thrones, yet the moſt glorious one is that of thy <hi>Mercy,</hi> which thou art pleaſ'd to open to the penitent Sinner. I will look upon the glittering guilded emi<g ref="char:EOLhyphen"/>nencies of the world with more delight, becauſe I ſee the footſteps of thy Glory
+<pb n="11" facs="tcp:170521:10"/> in them: and the royalties of the earth ſhall make me but with the greater re<g ref="char:EOLhyphen"/>flection aſpire after the enjoyment of that <hi>Throne,</hi> whoſe <hi>beauty</hi> and
+<hi>holineſſe</hi> raviſhes the <hi>Seraphick Attendants</hi> with <hi>joy</hi> unſpeakeable and full of Glory.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>1 King. ch. 19. v. 9.</hi>
+                     </bibl>
+                     <p>And he came thither unto a Cave and lodged there.</p>
+                  </q>
+               </epigraph>
+               <p>SEe how malice hath forced <hi>Eliah</hi> to a Cave, and he that could not have the Liberty either of <hi>Life</hi> or <hi>Conſcience</hi> amongſt the Children of his People, was glad to finde out a narrower In<g ref="char:EOLhyphen"/>cloſure to ſave <hi>both.</hi> The <hi>Prophet</hi> that ſpake ſo many Wonders is for the time become an <hi>Hermite;</hi> 't was but a kind of a <hi>type</hi> and
+<hi>praeludium</hi> of after-Ages. For, when, through him, I look on thoſe famous Votaries of the Church, who, to overcome the World relinquiſht it, turning Caves into Oratories, Caverns into Chappels, and filling the hollow<g ref="char:EOLhyphen"/>neſſe of a ſilent Grot, with diviner Ec<g ref="char:EOLhyphen"/>choes, than nature knew; I cannot chuſe but admire the purity of that zeal, which made ſolitude its mirth and
+<pb n="12" facs="tcp:170521:11"/> the freedome of a melancholy devotion the onely object of their Glory; ſeque<g ref="char:EOLhyphen"/>ſtring themſelves from men that they might be fitter companions for Angels; and leaving all other Imployments that they might exerciſe their Graces: Theſe divine Retirers put Satan to the trouble of comming out of his way to tempt them; and ſo wel obey'd their Ma<g ref="char:EOLhyphen"/>ſters rule,
+<hi>Faſt and pray,</hi> that their whole Lives were a <hi>Lent.</hi> When they could not dye, they liv'd his <hi>Martyrs.</hi>
+               </p>
+               <p>If theſe Pious Exiles, whoſe Vertue hath more <hi>Praiſes</hi> then <hi>Practices</hi> (men <hi>loving</hi> now the World too well to <hi>leave</hi> it) have by ſo noble a Confine<g ref="char:EOLhyphen"/>ment made their <hi>memory</hi> as ſacred as their <hi>Lives.</hi> How great a miracle muſt he be, that lives a religious and devout recluſe among the croud of <hi>ſinners?</hi> and when the objects of the World face him, Conquers more nobly, by oppoſing than retreating? He was a true Soul<g ref="char:EOLhyphen"/>dier that <hi>ſpatt</hi> his tongue into the Har<g ref="char:EOLhyphen"/>lots face, leſt it ſhould comply with the wantonneſſe of hers; and taught his Bloud by nobler motions to obey his Vertue, not his Nature. And he is the divine Hermit, who by not Loving the World leaves it, whilſt he lives in it;
+<pb n="13" facs="tcp:170521:11"/> and excluding himſelfe more from the ſinne than the ſociety of men, ſhews, he would not be beholding to ſolitude for the Glory his Vertue can acquire. Happy hee, that by thus Injoy<g ref="char:EOLhyphen"/>ing, both Conquers, and Deſerts the World, and makes his way to feli<g ref="char:EOLhyphen"/>city through thoſe Sirens that Salute him!</p>
+               <p>O My Saviour, if I cannot follow Thee in the Wilderneſſe, yet I will Worſhip thee in the Garden, where thoſe Divine accents of thy Voice thrice ſubdued thy Murtherers. Teach me to conforme my ſelfe to that life which hath ſo aſtoniſht the World, thoſe ſufferings that made the higheſt Horrour a pleaſure, and the Loſſe of Life a Satisfaction in ſaving mine. Thou haſt taught me that the nobleſt way to Conquer, is in the midſt of E<g ref="char:EOLhyphen"/>nemies.</p>
+            </div>
+            <div type="meditation">
+               <pb n="14" facs="tcp:170521:12"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Job ch. 11. v. 10.</hi>
+                     </bibl>
+                     <p>In all this did not Job ſin with his lips.</p>
+                  </q>
+               </epigraph>
+               <p>BEhold this Miracle of patience from whom Hell it ſelf could not extort one miſ-becomming accent! One that could turn his ſighs into Muſick, breathe Divinity in Groanes, and Conquer Satan in his tortures, that could turn his Sorrows into Sermons, his Pains in<g ref="char:EOLhyphen"/>to pious Lectures; and in all his Miſe<g ref="char:EOLhyphen"/>ry not vent the leaſt Invective that might ſtaine the purity of his Maker. What an admirable Creature is the va<g ref="char:EOLhyphen"/>liant, though afflicted, Soul; whoſe hopes are mounted above the World, that makes his Croſſe his Triumph, and bears his Sufferings with ſo much pa<g ref="char:EOLhyphen"/>tience, you would think he felt them not, as if Piety had made him inſenſible: his Humility hath taught him to enter<g ref="char:EOLhyphen"/>tain his preſſures with ſo much plea<g ref="char:EOLhyphen"/>ſure, you would think he were in love with Miſery; ſo nobly, that he becomes his very misfortunes, and makes them amiable his Devotion, like the Philoſo<g ref="char:EOLhyphen"/>phers Stone, turnes all into Gold, and though he live never ſo poor, yet he is ſure to dye rich. His very grave becomes
+<pb n="15" facs="tcp:170521:12"/> a Cabinet of Pretious duſt, and his re<g ref="char:EOLhyphen"/>ward is Heaven; to compare him to a Rock that out-braves the waves and lyes fixt when 'tis over-whelmed; to ſay, that his Piety, like the Sunne, becomes more tranſparent by being clouded; or that; like the Palm, hee Conquers the very clogs that load him: theſe are but poor Encomiums for ſo Divine a Spirit: like the lower Spheres, that, carried about by a higher Orbe, yet have a motion of their own. Though he be ſurrounded and hurried away with ſtorms, yet ſtill his heart is the true Load-ſtone that points at Hea<g ref="char:EOLhyphen"/>ven. Tell me of Stones that expell poyſon, herbs that fright away Thun<g ref="char:EOLhyphen"/>der-ſpels, or incantations; theſe are but poor Vertues, Compared with his. Like a Diamond, his afflictions do but ſhape and point him to a Luſtre fit to be enchaſte among Saints, and Rings of Seraphins: his flames doe but purifie and make his ſtamp the brighter, and he is not aſhamed of his miſery becauſe he thinks it as much glory to live as to dye a Martyr. How often did Satan call <hi>Job</hi> Coward for his patience, in hopes at leaſt to make him rayle againſt
+<pb n="16" facs="tcp:170521:13"/> Heaven? He knew he had no other way to conquer him but by himſelfe: in<g ref="char:EOLhyphen"/>deed, God is then beſt pleaſed when he ſeems to frown at us, and He makes us Sufferers that he might make us Saints. The Iſraelites muſt paſſe thorough a breaſt of Enemies, if they would come to <hi>Canaan.</hi> He deſerves not to win Hea<g ref="char:EOLhyphen"/>ven, whoſe piety is ſuch a coward that he dares not fight for it.</p>
+               <p>And ſhall the leight afflictions of this preſent World, O Lord, diſcourage us from thy Service, and drive us from the Joyes to come. Thou diſcovereſt thy Love even in our puniſhments, and thy Goodneſſe in the midſt of our Misfor<g ref="char:EOLhyphen"/>tunes: Whilſt we prophanely queſti<g ref="char:EOLhyphen"/>on thy Providence, and grumble to en<g ref="char:EOLhyphen"/>tertaine the ſmalleſt trouble for thy Sake. Were we ſenſible of thy Glo<g ref="char:EOLhyphen"/>ry and the brightneſſe of our reward, we ſhould not only ſubmit in a comely obedience to thy Will, but alſo triumph in our Sufferings; and rejoyce even in the meaneſt Condition, that we might ſhevv how much we value thy fa<g ref="char:EOLhyphen"/>vour, beyond the intereſts of the World.</p>
+            </div>
+            <div type="meditation">
+               <pb n="17" facs="tcp:170521:13"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Cant. Ch. 11. V. 1.</hi>
+                     </bibl>
+                     <p>I am the Roſe of Sharon, and the Lilly of the Valleys.</p>
+                  </q>
+               </epigraph>
+               <p>NAture's perfume, the Roſe, diſplayes its treaſures through the aire, en<g ref="char:EOLhyphen"/>veigling our ſenſes at once both with its Beauty and Odours. Other flowers like <hi>Hippocrates</hi> have more Colour then ſmell; but this growes Lovely in its witherings, and retains a ſweetneſſe e<g ref="char:EOLhyphen"/>ven in its duſt: and when it leaves to be a poeſy may be turn'd into a Cordi<g ref="char:EOLhyphen"/>all; as if Nature had Epitomiz'd the vertues as well as the beauties of other Vegetals into one, and made its Para<g ref="char:EOLhyphen"/>diſe in a Roſe. I ſee, I can cull not on<g ref="char:EOLhyphen"/>ly Phyſick but Divinity from it, and diſcover the wonders of Creation in the bluſhing encloſures of a flower. The ſmalleſt Violet, as the poet ſings, breathes a Diety, and every Plant weares the Livery of Heaven: but in the Crim<g ref="char:EOLhyphen"/>ſon attire of a Roſe, I find a more Love<g ref="char:EOLhyphen"/>ly Embleme of Him, who is the Roſe of
+<hi>Sharon.</hi> A Roſe in his immaculate Conception, in the beauty and pu<g ref="char:EOLhyphen"/>rity of the Divineſt Life that ever was or can be, A Roſe in his Crown
+<pb n="18" facs="tcp:170521:14"/> Crown of thornes, the perfume of his prayers, and the fragancy of his miracles. Were the whole earth turn'd into an Arabia, and it's richeſt odours ſublimed to a perfume; were nature rifled of all it's ſweets, and it's moſt raviſhing vege<g ref="char:EOLhyphen"/>tables, crowded to a poſy; yet were they infinitly below the ſweetneſſe of this Roſe. Not that Centinel of nature, the Marigold, the early nymph of the goddeſs of the morne, that riſes from it's golden bed at the firſt appearance of its Lover; not the Suns wooer, the Helio<g ref="char:EOLhyphen"/>trope, that ſtrives to kiſs and Circulate with that beaming Mover, as if nature had flowerd the earth with Stars or made it's Coloured progeny idolaters of the Skie; nor all thoſe growing Prodigies that enamour both our eye and thoughts to admiration, are not worthy to be Compared to this Heavenly Mirror, the Roſe <hi>Sharon.</hi>
+               </p>
+               <p>O my Saviour, I will run after the odour of thy perfumes, and pant after thoſe ſpirituall delights that ſtream from thy Throne. Thou art infinitly amiable; O imprint on my ſoul a purity that makes men capable of thy heavenly infuſions,
+<pb n="19" facs="tcp:170521:14"/> the Divine irradiations of thy Grace and Love. What is the Comelineſſe of the Creatures but a drop of that tranſcen<g ref="char:EOLhyphen"/>dent excellency that is in thee? O let it be my delight, as it is my felicity, to imi<g ref="char:EOLhyphen"/>tate the perfect innocency of thy life, that through the ſweetneſs of thy merits my Sacrifices may be found pleaſing; and that, when this corruptible ſhall be changed, and this mortall put on immor<g ref="char:EOLhyphen"/>tality, I may receive the reward of the faithfull, the inheritance of the juſt, and be made partaker of everlaſting Glory in thy preſence for evermore.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Geneſ. Chap. 28. v. 12.</hi>
+                     </bibl>
+                     <p>And he dreamed, and behold a Lad<g ref="char:EOLhyphen"/>der ſet upon the earth, and the top of it reached unto heaven; and be<g ref="char:EOLhyphen"/>hold the Angells of God aſcending and deſcending on it.</p>
+                  </q>
+               </epigraph>
+               <p>NO ſooner had <hi>Jacob</hi> made a ſtone his pillow (ſuch is the happineſs of contented humility) but a glorious Viſion ſalutes his eye: that obedience which brought him from, his father on a
+<pb n="26" facs="tcp:170521:15"/> journey to <hi>Syria,</hi> became a nobler guide, and ſhewed him the way to hea<g ref="char:EOLhyphen"/>ven; thoſe divine Travellers, the An<g ref="char:EOLhyphen"/>gels, aſcending and deſcending be<g ref="char:EOLhyphen"/>fore him. Happy ſolitude, that met with ſuch heavenly company! the hard<g ref="char:EOLhyphen"/>ſhip of his lodging was abundantly re<g ref="char:EOLhyphen"/>compenced by this bleſſed interview, when the God of his father, the Lord of all creatures, appeared unto him, re<g ref="char:EOLhyphen"/>viving him with the gratious ſupports of his promiſes and providence. When I look upon the poſture of this happy ſleeper, I cannot chuſe but wonder at the vanity of thoſe, that expect viſions from heaven on their beds of down, and look for revelations amidſt their plea<g ref="char:EOLhyphen"/>ſures; their tender ſpirits would grow fick, and out of love with piety, ſhould it diſturb or contradict their eaſe: How quickly would their devotion catch cold, ſhould they, with <hi>David,</hi> get up at midnight to pray? God drops not his miracles into the lap of the wanton, nor communicates the riches of his glo<g ref="char:EOLhyphen"/>ry, but to thoſe who are reſigned to him. <hi>John</hi> muſt be an Exile, before he can be the Divine; and have conference with none but Angels, if he would be a fit Notary for heaven. Thoſe holy
+<pb n="21" facs="tcp:170521:15"/> men, that had no other company than ſolitude and their prayers, could not have traffick'd ſo purely with heaven, had they not diſclaimed all commerce with the world; and diſroabing themſelves of all ſecular intereſts, obtained a no<g ref="char:EOLhyphen"/>bler furniture of grace, and became veſ<g ref="char:EOLhyphen"/>ſels of honour.</p>
+               <p>
+                  <hi>Jacob</hi> here had no other Canopy, but the aire; no other lights to his bed, than the lamps of heaven; and the Angels paſs too and fro, as it were a guard to ſecure him. How ſecurely doth he reſt, that leans on Providence, and makes That the depoſitory of his ſoul! Repoſe thus bleſt becomes a Sanctuary, nor need he fear to be diſturbed in his ſleep, that makes God his keeper; or that his pious night-thoughts ſhall have any other dreams, than thoſe of peace.</p>
+               <p>
+                  <hi>Jacob</hi> had no ſooner cloſed his eyes, but thoſe holy Porters unlock the Hea<g ref="char:EOLhyphen"/>vens, and invite him up; but 'tis by a ladder: We cannot climb heaven in a moment; the way to happineſs is but by degrees, and, as our Saviour tells us, 'tis narrow too. Every vertue is a ſtep to eternity, and he is ſo much nearer heaven, that daily treads his vices under. We cannot be too good proficients in a
+<pb n="22" facs="tcp:170521:16"/> holy life, or thinke that in the ſmall<g ref="char:EOLhyphen"/>eſt acts of piety we have enough to carry us to happineſſe: 'tis not a few ſteps, but a conſtant progreſs that mounts us thither. O how bad is he that thinks him<g ref="char:EOLhyphen"/>ſelfe too good to be made better.</p>
+               <p>The Promiſes of thy Glory are infinite, O Lord, and yet how careleſly do we embrace them? Thou haſt ſhewen us the way unto thy Self, and yet we are not only unwilling but even weary of walk<g ref="char:EOLhyphen"/>ing to thee. Alas, Are the joyes of thy kingdome not worth the coming to? can we think to climbe up unto thy Throne by a lame &amp; idle Devotion? how nimbly do we purſue the vanities of the world, but pretend a faintneſſe in thy ſervice? We can run after the periſhing concern<g ref="char:EOLhyphen"/>ments of this life, but make little or no progreſſe in the race, which Thou haſt ſet before us; Quicken us, O Lord, and make us more earneſt and zealous in thy ſervice; and as thou haſt ſent thy ſon to bring us to thy Self, do thou likewiſe ſend thy Spirit to ſanctifie us for. Thy ſelf; and then we, who of our ſelves can ſcarce move unto thine Altar, will, by the aſſiſtance of thy Grace, run the way of thy Commandements.</p>
+            </div>
+            <div type="meditation">
+               <pb n="23" facs="tcp:170521:16"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Proverbs 18. v. 14.</hi>
+                     </bibl>
+                     <p>But a Wounded Spirit who can beare?</p>
+                  </q>
+               </epigraph>
+               <p>NOt the pureſt temper, not the vaſteſt Bulke, the world it ſelf, that hoſpitall of ſinners, cannot; for it groanes and travailes, it ſelf, to be deli<g ref="char:EOLhyphen"/>vered. Heaven was no longer a place for thoſe ambitious ſpirits, who ex<g ref="char:EOLhyphen"/>chang'd their glory for thoſe flames, which torture them not ſo much as that infinite deſpaire, which for ever ſe<g ref="char:EOLhyphen"/>cludes, and ſequeſters them from it. No wonder ſome think, there is no other hell then this, for its torments are not to be matcht: Stakes or Gridirons are but flea-bites to this vulture: tortures of the neweſt faſhion, are pleaſant Martyr<g ref="char:EOLhyphen"/>doms, eaſie paines, compar'd to this. Thoſe dying miſeries, do but ſtorme, and affright ſenſe; whilſt this living death, this killing Life, diſplayes its cruelties on a more heavenly object; and ſtriving to deſtroy and rifle an Im<g ref="char:EOLhyphen"/>mortall part, makes death it ſelfe a gentle murtherer to it. Skreeks of
+<pb n="24" facs="tcp:170521:17"/> Owles that add blackneſſe to the very night it ſelfe, groanes of parting ſouls that fill the eare, and room, with trem<g ref="char:EOLhyphen"/>bling Epitaphs, writt in characters mournful as the grave &amp; ſilence; are har<g ref="char:EOLhyphen"/>monies to the dying Elegies of a woun<g ref="char:EOLhyphen"/>ded ſpirit, that breathes nothing but bleeding Satyrs againſt it ſelfe. See how with <hi>David</hi> it goes mourning all the day, and all the night too, ſurrounded with black and fatal Ideas, and turnes his bed into a bath, which thoſe weep<g ref="char:EOLhyphen"/>ing ſprings, his eyes, have made; and in<g ref="char:EOLhyphen"/>ſtead of bright and gentle aires, breathes nothing but dark &amp; trembling accents, which the buiſy Divell labours to re<g ref="char:EOLhyphen"/>found back in dolefull and deſpairing Ecchoes. How ſadly doth it expoſtulate with heaven, My deareſt God, what is become of that Lovely attribute, thy Mercy? are the treaſures of it ſhut up from a poore ſinner? and wilt thou be a God of mercy to the whole world, and wilt not to me!</p>
+               <p>O let me for ever dwell in dungeons deep beyond the reach and ſight of man, ſo I may but enjoy the brightneſſe of thy face. Let me live more poore and diſconſolate then
+<hi>Job</hi> upon his Dung<g ref="char:EOLhyphen"/>hill
+<pb n="25" facs="tcp:170521:17"/> in a naked and forſaken deformity, ſo I may but hide my ſpots, and put on a Beauty in my ſoul, which may invite thine eye again.</p>
+               <p>Who ever thou art that now riotts it in the world, and dallieſt with damnati<g ref="char:EOLhyphen"/>on, didſt thou but know the agonies of guilt, the cruelties of a Murdering ſin, and the ſtings thy pleaſures leave behind them, how quickly wouldeſt thou ſa<g ref="char:EOLhyphen"/>crifice thy life to nobler ſervices, and employ thy time in ſweeter thoughts; Wert thou now to die, how would the terrours of an evill Life affright thee, when every ſin would appear a Meſ<g ref="char:EOLhyphen"/>ſenger of horrour, and the flattering world prove but an infernall Comfor<g ref="char:EOLhyphen"/>ter.</p>
+               <p>Shew me that Gyant-Conſcience this would not at length Maſter, that fro<g ref="char:EOLhyphen"/>zen ſoul theſe flaſhes would not melt and blaſt againe, that Steel-backt ſinner whom gentle loades will not at length numerouſly over-burden.</p>
+               <p>The world knowes not a miſery like it, the terrours of the Grave are trifles to it, which could it but ſhroud the Guilty ſoul, and in it's dark and ſoli<g ref="char:EOLhyphen"/>tary regions promiſe a freedome from
+<pb n="26" facs="tcp:170521:18"/> future Miſery, how willingly will it buy its peace with death, and beg its ſharp<g ref="char:EOLhyphen"/>eſt Dart for a ſpeedier paſſage: loſſe of friends or fortune, Croſſes to the very bone are but Scratches to theſe wounds: give me a Catalogue of afflictions and there is none I think, except this, which is not tolerable: <hi>But a wounded ſpirit who can bear?</hi>
+               </p>
+               <p>How unſupportable, O Lord, is the burden of a Wounded Spirit? how ter<g ref="char:EOLhyphen"/>rible are the Stings of Conſcience, and the apprehenſions of thy wrath? how miſerable is he that ſecurely wraps himſelfe in Sinne, and grows inſenſible of his guilt till the memory of his Crimes revive it; and when death puts him in mind of the World to come, hath nothing but the horrours of his Life before him. Thou haſt plac't an impartial Regiſter in our boſomes which no flattery can bribe, nor teares Silence, from reminding us of thy Ju<g ref="char:EOLhyphen"/>ſtice; and yet how many are there whoſe Leviathan-conſciences, break the Silver Cords of thy Law like threds of Towe; and are ſo farre from acknowledging their guilt, that they are hardned in im<g ref="char:EOLhyphen"/>penitence? But teach me, O Lord, as I
+<pb n="27" facs="tcp:170521:18"/> ſinne ſo to ſorrow dayly; that ſo when I ſhall come and appeare before Thee, I may find no other terrours, no other ſins my accuſers, then thoſe which I have, if not throughly crucified, yet at leaſt ſeriouſly repented of in my ſelfe before.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Eccleſ. Chap. 12. v. 13.</hi>
+                     </bibl>
+                     <p>Feare God and Keepe his Commande<g ref="char:EOLhyphen"/>ments: for this is the whole Duty of Man.</p>
+                  </q>
+               </epigraph>
+               <p>ANd yet how few are there that per<g ref="char:EOLhyphen"/>forme it, which yet is not ſo much our duty, as it ought to be our de<g ref="char:EOLhyphen"/>light. He that hath but once got the habit of adoring his Maker, will quick<g ref="char:EOLhyphen"/>ly finde Religion but a pleaſure; and that Law which ſeemes ſo hard and un<g ref="char:EOLhyphen"/>pleaſing to the World, will be but a re<g ref="char:EOLhyphen"/>creation to his Soul.</p>
+               <p>But alas, How little is there of <hi>Davids</hi> piety amongſt us now, when inſtead of delighting in Gods Law, we deface it more; &amp; are ſo far from meditating in it either day or night, that we never think
+<pb n="28" facs="tcp:170521:19"/> upon it at all: 'Tis the duty of the world now to ſin confidently, and an argu<g ref="char:EOLhyphen"/>ment of much valour, to baniſh this ti<g ref="char:EOLhyphen"/>morous religion of fearing either God or his Law. The Preachers doctrine is now grown worſe then a paradox, mere Apocrypha, 'tis hereſie to revive it. To tell us of our duty, is to ſcandalize the times, that ſo officiouſly break the Law.</p>
+               <p>And no wonder there are ſo many Atheiſts; there was never ſuch a time to engender them as now. Track Antiquity to its firſt riſe, and you cannot match this age again. The world never multi<g ref="char:EOLhyphen"/>plied ſo faſt in ſin; abhominable Sects, like Colonies, new plant the earth; pro<g ref="char:EOLhyphen"/>phaneſs is grown hereditary, and ſprouts out by propagation: ſo that, in time, poſterity may perhaps become Heathens. Were God and his promiſe mutable, a deluge would be but a ſleight puniſhment. We do not onely ſin, but glory in it more, whilſt ſome, not con<g ref="char:EOLhyphen"/>tent to be private and ſilent Atheiſts, proclaim it loud, and are mad to have the credit of being known ſo; as if we could not be ingenious enough, unleſs we denyed our Maker. No wonder,
+<pb n="29" facs="tcp:170521:19"/> religion is out of tune, when there is no harmony of a Church; of that Chri<g ref="char:EOLhyphen"/>ſtianity ſounds low, when common Morality is not heard.</p>
+               <p>And yet it is a leſſon we cannot learn too well, a tribute we cannot pay too much, too often. We owe our beeings to the bounty of his hand, what homage then can we better pay, then that, which by glorifying of him, purchaſeth a Crown for our ſelves.</p>
+               <p>Tell me, ye blind followers of the world, what's the glory ye pretend to? Ye that laugh at heaven, and make di<g ref="char:EOLhyphen"/>vinity a mantle for unrighteouſneſſe, that, with the Phariſee, count formali<g ref="char:EOLhyphen"/>ty your religion, and make an outſide-piety your duty. Alaſs, Heaven is not got by pious frauds, guilded crimes, or fortunate tranſgreſſions; nor the divine Eye to be deluded with a painted zeal. 'Tis not a pretended ſanctity that can cloathe us with immortality, nor a fa<g ref="char:EOLhyphen"/>ſhionable devotion onely, that will carry us to heaven. How miſerable is he, whoſe god is the world, and makes it his religion to neglect his Maker.</p>
+               <p>
+                  <pb n="30" facs="tcp:170521:20"/>What didſt Thou beſtow our reaſon on us for (O Lord,) but to harken unto the voice of thy Law, that the Celeſti<g ref="char:EOLhyphen"/>all Oratory of thy Word, might at leaſt win us from an ignorant prophaneſſe? Shall Heathens that had no other end no other reward for their piety, than ſome temporary applauſe or the in<g ref="char:EOLhyphen"/>ward triumphs of their Spirits for do<g ref="char:EOLhyphen"/>ing well, out-ſtrip us in the beauties of a Morall life; and we that have high<g ref="char:EOLhyphen"/>er and purer hopes, be ſcarce honeſt for thy ſake? Shall they that knew Thee not be more paſſionately Good, than we that have found out Heaven and expect eternity to ſucceed? Though it was not in the power of Man to find Thee, till Thou didſt reveal thy ſelfe in Chriſt, yet now having ſo richly and fully ſhewn us the Treaſures of thy Love, ſhall we not ſtrive to doe ſomething for thy Glory? Make us, we beſeech Thee, to conſider the advantages that are in thy Service, the happineſſe that at<g ref="char:EOLhyphen"/>tends obedience, and that Crown which is the reward of Faith, that ſo out af<g ref="char:EOLhyphen"/>fections being mortified unto theſe pe<g ref="char:EOLhyphen"/>riſhing objects here below, may be en<g ref="char:EOLhyphen"/>livened onely with deſires after thoſe
+<pb n="31" facs="tcp:170521:20"/> Eternall Excellencyes that are in Thee.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Luke Chap. X. v. 25.</hi>
+                     </bibl>
+                     <p>And a certaine Lawyer ſtood up and tempted him, Saying, Maſter what ſhall I doe to Inherite Eternall Life?</p>
+                  </q>
+               </epigraph>
+               <p>IT was the beſt Queſtion that ever he put, and gain'd him more then all his Pleading ever did beſides; nor could it be any diſhonour to him, from a Lawyer to turne Sollicitor in ſuch a ſuite.</p>
+               <p>This was the higheſt Caſe he ever met with; for 'twas his Soul's; and where hee could better be his owne Clyent, then Counſellour. All his Law could never have divided it, had Hee not ſo fortunately met with Divinity it ſelfe to reſolve him.</p>
+               <p>How blinde are they that thinke to finde out the hidden Myſteries of Sal<g ref="char:EOLhyphen"/>vation, by their owne ſhallow brain; that grope for happineſſe and eternity
+<pb n="32" facs="tcp:170521:21"/> in Natures boſome onely; that make <hi>Ariſtotle</hi> their Bible, and goe no further than his <hi>Ethicks</hi> to learne Divinity, whoſe curioſity is their Religion, and triflingly pour out the happineſſe of their time; on ſome Learned Manuſcript, Sacrificing their Nobler Meditations to Nature onely; They ſtudy the World ſo long that they forget Heaven, and are ſo taken with the Pen of ſome Witty Mortall, that they ſeldome peruſe Scripture, that Language of Life, the Celeſtiall Oratory of the Spirit.</p>
+               <p>The good Lawyer hath ſo long la<g ref="char:EOLhyphen"/>boured in other mens buſineſſe, he had almoſt forgot his owne; his many mo<g ref="char:EOLhyphen"/>tions had well nigh talkt away his better part: 'twas now time to ſpeak for himſelfe; and, after all his wrang<g ref="char:EOLhyphen"/>ling, thinke of a VVritt of Eaſe.</p>
+               <p>How naturall are the Thoughts and Enquiries after happineſſe in every one? The very Pagans would have a Paradiſe, as well as gods, of their owne making; and rather then want a felicity, they would phancy an Eli<g ref="char:EOLhyphen"/>zium.</p>
+               <p>'Tis the genuine Ambition of the
+<pb n="33" facs="tcp:170521:21"/> Soul to thirſt for ſomething beyond the World: how vain are they, then, that make the World their happineſſe, and place Heaven in their Injoy<g ref="char:EOLhyphen"/>ments heere? how Inquiſitive are ſome Lawyers of the World, whoſe que<g ref="char:EOLhyphen"/>ſtion it is, How they may grow Rich, whoſe Divinity it is to become weal<g ref="char:EOLhyphen"/>thy, and count a good purchaſe the beſt inheritance. See how the Ambi<g ref="char:EOLhyphen"/>tious man gapes after preferment, and places his felicity in his fortune, making honour his Heaven, worſhipping the Glit<g ref="char:EOLhyphen"/>tering world, and ſels Eternity for a title.</p>
+               <p>See how the Covetous wretch locks up Heaven in his Cheſt, and ties his happineſſe in a bagge: whoſe Diety is his Money, and ſtill his Queſtion is, how to get more. See how the ſen<g ref="char:EOLhyphen"/>ſualiſt Courts the world and makes plea<g ref="char:EOLhyphen"/>ſure his happineſſe, that ſpends a good inheritance on his luſts, but never ſeeks how to get a better.</p>
+               <p>So ſadly do our vices drown Religion that we are inquiſitive after any thing but Heaven: we all run after happineſſe, but cannot over-take it, becauſe it is not to be graſp't within the armes of Mortality. 'Tis not all the flattering
+<pb n="34" facs="tcp:170521:22"/> honours and guilded frailties of the World, that can match Eternity, and bring us to a never dying Manſion: we muſt looke for ſomewhat that is as im<g ref="char:EOLhyphen"/>mortall as our Soules, more durable then time, and cannot receive a peri<g ref="char:EOLhyphen"/>od with our breath. 'Tis every Mans Caſe as well as the Lawyer's; and every Lawyer's as well as his: 'tis a Queſtion that will become any Profeſſion, for it concernes all to enquire betimes what ſhall they doe to inherit Eternall Life?</p>
+               <p>With what pleaſure, O Lord, do we embrace and runne after our earthly ad<g ref="char:EOLhyphen"/>vantages; but ſeldome reflect upon that time when wee and all things with us ſhall receive a period? Wee can entertaine any thing with more delight, then that which concernes us moſt, the happineſſe of the World to Come.</p>
+               <p>Wee are more earneſt after the peri<g ref="char:EOLhyphen"/>ſhing intereſts of this Life then in lay<g ref="char:EOLhyphen"/>ing up a treaſure for eternity, and ma<g ref="char:EOLhyphen"/>king proviſion for our inheritance a<g ref="char:EOLhyphen"/>bove: We beſeech thee, make us to ſee the little uſe, but the great vani<g ref="char:EOLhyphen"/>ty that is in this World; that ſo the
+<pb n="35" facs="tcp:170521:22"/> pleaſures of it may not ſteale away our thoughts from the Contemplation of a Better.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Mathew Chap. 15. v. 28.</hi>
+                     </bibl>
+                     <p>And he ſaid unto her, O Woman, Great is thy faith.</p>
+                  </q>
+               </epigraph>
+               <p>HAppy ſhe, that was found worthy ſo great an expreſſion! her female tongue made amends for all its former follies, having now by its pious anſwers merited ſo divine an encomium. Poor woman, how rich was ſhe, in whoſe breaſt was minted a treaſure which Kings and Princes compared, are beggers to. All Paleſtine with its balm and ſpices, could not furniſh her with an antidote to revive her child and charme away the Divell. See the miracles of Faith, that could ſave two ſouls the, Mother's and the Daughter's!</p>
+               <p>So miraculous that even a graine of it can remove Mountaines, levell Hills, and plaine the moſt rugged and lofty Soul into an humble and fruitfull val<g ref="char:EOLhyphen"/>ley.</p>
+               <p>
+                  <pb n="36" facs="tcp:170521:23"/>'Twas this that ſmoothed the ſurface of the Ocean, that made the waves a walk, and turned their furious curles into a pavement for <hi>Peter</hi>'s feet. 'Twas the Centurion's faith that ſtav'd death away from his ſervant, which all his Guard could never have kept off; that reſtored the blind mans eyes again, and made him ſee better than nature could have done. All the wonders of the Goſ<g ref="char:EOLhyphen"/>pell were ſtill cloſed up with, Thy faith hath healed thee. And yet that Faith; which then wrought ſo many miracles, is now become the greateſt miracle it ſelf, whilſt ſome take the ſigne for the thing; they place the greatneſſe of their faith in the greatneſſe of their works, and have ſo good an opinion of them<g ref="char:EOLhyphen"/>ſelves, that they think it faith enough meerly to do well. Others hope, to be canonized for their doctrines, though not for their lives, ſcorn the company of all religious duties, and think to travell to heaven by their faith, which is alone. Obedience, true ſorrow for ſin, that love<g ref="char:EOLhyphen"/>ly robe of a mourning ſoul, and the no<g ref="char:EOLhyphen"/>bler ornaments of our ſpiritual warfare, are but empty ceremonies, &amp; both theſe men's Creeds are of their own making:
+<pb n="37" facs="tcp:170521:23"/> but heaven is not got by ſpeculation onely; He that placeth his faith in his braine, and thinks religion hath not its <hi>agenda</hi> too, may like <hi>Moſes</hi> view and talke of <hi>Canaan</hi> a farre off; but never enter it. Our Obedience muſt be low<g ref="char:EOLhyphen"/>der then our Pretenſions; 'tis not a noiſe that will Saint us, 'tis not our Profeſſions onely but our Practices too, that proclaime our faith.</p>
+               <p>Though our Merits cannot reach heaven, yet our indeavours may, if un<g ref="char:EOLhyphen"/>feigned; becauſe there is a mercy that will pardon our defects: all the bloſſoms of our Piety ſprout out from this ſtem, and he that either believes or loves his Saviour, cannot think he ſtrives too much to live well.</p>
+               <p>This was the womans Faith here, and ſhe had ſcarce pour'd it out with her Teares, when
+<hi>Satan</hi> all affrighted for<g ref="char:EOLhyphen"/>ſakes his hold, not able to abide the Ec<g ref="char:EOLhyphen"/>cho of its ſound, ſeconded by the di<g ref="char:EOLhyphen"/>viner accent of our Saviours Lips. And this faith muſt be our Amulet againſt ſin, and by its diviner charmes drive <hi>Satan</hi> to his chaine: 'Tis this that prepares heaven for us, that makes us ſurvive our toombs, become Im<g ref="char:EOLhyphen"/>mortall
+<pb n="38" facs="tcp:170521:24"/> in our graves, and promiſes eternity to our duſt; tis this that ſeales our happineſſe and brings us there where the ſame Jeſus ſhall receive us with an
+<hi>Euge</hi> to his Glory,</p>
+               <p>Thou ſenteſt thy Son, O Lord, to die for us that by beleeving in him wee might have life. He under whom thou haſt put all things, was pleaſed to put himſelf under them and left his Throne to be Crucified for our ſoules, that we might receive the Triumphs of his paſ<g ref="char:EOLhyphen"/>ſion, and be partakers of his Glory. O let not thoſe miſeries of our natures which firſt invited thy mercy, make us uncapable of it: let not thoſe that knew Thee not but by thy miracles, be more zealous in their acknowledging thy goodneſſe, then we who by the manifeſ<g ref="char:EOLhyphen"/>tation of thy love plead an intereſt in thy blood. But grant that we may live in a perpetuall Gratulation to thy merits, who cameſt from the Boſome of thy Father to ſave our ſouls. To this end do thou give unto us that faith without which it is impoſſible to pleaſe thee, and with which thou giveſt every other grace: teach us ſo to rely on thy mercy that we
+<pb n="39" facs="tcp:170521:24"/> may not neglect the meanes, or thinke that a Dead faith will carry us to that life, which Thou haſt promiſed to none but ſuch as worke out their ſalvation with feare and trembling.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Iohn: Chap. 20. v. 11</hi>
+                     </bibl>
+                     <p>And ſhe stopped downe, and looked into the Sepulcher.</p>
+                  </q>
+               </epigraph>
+               <p>SEe how religiouſly <hi>Mary</hi> ſtoopes to behold her Saviour in his Toomb, whilſt her yonger Siſters that ſpend more time on their dreſſe then their devotion will ſcarce kneel to their praiers. 'Twas not an apparition of Angels in the ſhape of Ghoſts, nor the mournfull ſilence of a toomb, where dwelt no other object then death, cloathed all in horrour, that could fright her from her contempla<g ref="char:EOLhyphen"/>tion.</p>
+               <p>See the power of Divine love that can even with pleaſure looke that in the face, whoſe very aſpect onely ſtrikes the world to paleneſſe; and ſtand not onely at its doore, but enter into its chamber to meet heaven; and without feare in
+<pb n="40" facs="tcp:170521:25"/> the ſad and ſolitatry vault, repoſe it ſelf among the bones and carkaſes of the Dead, and make a Coffin its pillow till the morne. Thus the martyrs triumph'd in their flames, and were charioted up in raptures by fire; as if the greedie ele<g ref="char:EOLhyphen"/>ment had warm'd them only. How nobly did they meet death, and ſang Anthems to the muſick of their Chaines, as if they had been rather Prieſts then ſacri<g ref="char:EOLhyphen"/>fices in that cruel ſolemnity!</p>
+               <p>How ſweetly did <hi>Stephen</hi> cloſe his eyes after he had ſeen Jeſus, and heaven opened; and then cheerefully expired under an heape of ſtones; a monument richer than the proudeſt marble, having with his owne blood writ himſelfe this Epitaph, the beſt of any;
+<hi>I am the firſt Martyr.</hi>
+               </p>
+               <p>Thus the Saints made their torments their pleaſure, and turned death with all its terrours into a ſcene of mirth. 'Twas not the rage of Tyrants, nor the fury of the moſt ingenious kinds of torture, that could force them from the love of Jeſus.</p>
+               <p>He that loves his Saviour will with <hi>Mary</hi> not only ſtoop, but ſtep into a
+<pb n="41" facs="tcp:170521:25"/> Toomb, and paſſionately embrace even a Coffin for his ſake, he will looke on death but as the Meſſenger of his Glory the Harbinger of his happineſſe; and therefore with St. <hi>Paul</hi> all in rap<g ref="char:EOLhyphen"/>tures, all in flames, beg a diſſolution; whilſt his ſoul full of nothing but ap<g ref="char:EOLhyphen"/>proaching heaven is all in extaſies tranſ<g ref="char:EOLhyphen"/>ported thither.</p>
+               <p>How hardly can we be perſwaded, O Lord, to forſake the vaniſhing pleaſures of this life for thy glory and our owne happineſſe? How unwillingly ſhould we lay downe our lives for thy ſake or the Goſpells, that can ſo hardly part with one ſin in obedience to thy Law? Thy yoake is eaſy, and thy ſervice a perfect freedome; and yet we count thy ſan<g ref="char:EOLhyphen"/>ctuary a priſon, thy law a trouble, and can ſcarce ſacrifice ſo much time to our devotions as to pay unto Thee the hon<g ref="char:EOLhyphen"/>our due unto thy name. Pardon and pity this Corruption of our frames; and teach us whether we live or die; to delight in that for which thou mad'ſt us; even to glorifie Thee: that ſo whenſoever this earthly tabernacle ſhall be diſſolved we may receive our change with joy and
+<pb n="42" facs="tcp:170521:26"/> be carried by Angells to an everlaſting inheritance.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>Joh. Chap. 11. v. 25.</bibl>
+                     <p>
+                        <hi>Jeſus wept.</hi>
+                     </p>
+                  </q>
+               </epigraph>
+               <p>O Who can hear this and not diſſolve all in pious ſhowrs? Can the moſt moſt frozen eye read this and not thaw its ſelfe all in ſtreames? He that hath not ſo much piety as to weep for himſelf or his ſins, yet let him have ſo much hu<g ref="char:EOLhyphen"/>manity as to accompany his Saviour's teares.</p>
+               <p>And yet ſee how the marble Jewes, inſtead of ſeconding, cenſure his greife with a, Could not he that reſtored the eyes of the Blind, have kept Lazarus's open?</p>
+               <p>No wounder they would not be mourners with him, who were to be murderers of him, and be but little ſenſible or compaſſionate of his teares whoſe cruelty was ſcarce ſatisfied with dearer drops, when his whole body be<g ref="char:EOLhyphen"/>came an eye that wept blood.</p>
+               <p>And yet, Divineſt Saviour, how many
+<pb n="43" facs="tcp:170521:26"/> are there that beare thy title, but indeed are Jewes, that pretend to wear the livery of thy name, but blot out the golden characters of thy croſs. How cold<g ref="char:EOLunhyphen"/>ly muſt they needs be affected with thy teares, that are ſcarce ſenſible of thy ſufferings; and be but careleſſe of thy life, who are ſo forgetfull of thy death?</p>
+               <p>O <hi>Mary,</hi> how richly are thy teares now required, thoſe eyes that became moving baths for thy Saviour's feet, did ſure now run over to ſee His brim-full and diſtill drops, whoſe very inbalming revived thy Brother.</p>
+               <p>O Lazarus! didſt thou but know thy glory, thou wouldſt dye ſtill, to be ſo lamented, and willingly be buried in thy grave again to be ſo honorably bedewed.</p>
+               <p>No queſtion, when thou wert a ſpect<g ref="char:EOLhyphen"/>ator of his ſufferings, but thou didſt exceed the women in their teares, and ſacrifice thy Eyes in ſhowers to thy divine Reſtorer.</p>
+               <p>This was indeed the greareſt funerall that ever the world ſaw, or is like to ſee; for the Lord himſelfe was a Mourner here.</p>
+               <p>Divineſt Saviour, thou wept'ſt ſo thoſe
+<pb n="44" facs="tcp:170521:27"/> that could not, and for many that would not weep for themſelves, and wouldſt not denie thy tears who pouredſt out thy life: thou art ſo in initly good, thou deſireſt but unfained ſorrow for ſin to excuſe the gilt thereof; and yet ſo farre are we (ſuch is our miſery) from accom<g ref="char:EOLhyphen"/>panying thy teares, that we can ſcarce weep for our owne ſins. O teach us, in a pious gratitude to do ſomething for thy ſake, who haſt done ſo much for ours; that as thou haſt glorified thy ſelfe by our redemption, wee may alſo glorifie thee by a conſtant thanksgiving; and may no more ſell ourſelves to ſin, that have been ſo dearly bought for heaven and the joys of thy kingdome.</p>
+            </div>
+            <div type="meditation">
+               <pb n="45" facs="tcp:170521:27"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>John: 12. v. 2.</hi>
+                     </bibl>
+                     <p>But Lazarus was one of thoſe, that ſate at the table with him.</p>
+                  </q>
+               </epigraph>
+               <p>CAn the dead eate then? was not Lazarus but new wound up in his grave, and is he ſet at meale? Is his toombe turn'd into a table? and does he wipe his hands in the napkin that bound up his head? He that was ready to have feaſted wormes now feaſts himſelfe, and is riſen from his dead companions a gueſt amongſt rhe living.</p>
+               <p>We read indeed of ſome that all pale and liveleſs, were ſtretcht out for a coffin but reviv'd again, when that little ſpark of life, that lay glimmering in the expi<g ref="char:EOLhyphen"/>ring embers, in a corner of the panting heart recovered its flames. But here death and <hi>Lazarus</hi> had imbrac't too clo<g ref="char:EOLhyphen"/>ſely to be ſo parted. His ſoul had likely taken its flight before, and his body lay ſo long in his mothers armes, 'twas juſt diſſolving into its principles againe: and behold him now above, ground, as if but newly riſen from his bed, all freſh with life and vigour: he hath changed his chamber, and from the lower
+<pb n="46" facs="tcp:170521:28"/> regions of the other world is returnd to his old lodgings, where he is now at ſupper throng'd with multitudes of people that come not for almes, but to be ſpectators of this wonder. Had the end of the world been then, or a reſur<g ref="char:EOLhyphen"/>rection of others for company,
+<hi>Lazarus</hi> at his arrivall to the world againe, might well have phanſied with his countrymen, that the ſecond life ſhould be on earth, and heaven kept in pleaſures here.</p>
+               <p>No, <hi>Lazarus,</hi> though now alive thou muſt dye againe to live for ever; nor muſt thy revivall now, con ummate thine, but manifeſt Gods glory; though it be thine too, above expreſſion, to have been thus the ſubject of it. Thou needſt not feare to dye againe having done it once, nor doubt but that hee who raiſed thee now, will do it hereafter too. Didſt thou ever thinke to have injoyed this world againe; or to have been freed from thy impriſonment, till the great and generall delivery? 'Twas beyond thy Siſter's faith till ſhe ſaw it; and now having had two lives, if thou ſpenteſt the former on thy ſelfe, or the world, thou didſt wholly ſacrifice the latter to thy divine Reſtorer.</p>
+               <p>
+                  <pb n="47" facs="tcp:170521:28"/>How many expiring ſoules, all fright<g ref="char:EOLhyphen"/>ed with the horror of their crimes, could they but have their ſpan a little length<g ref="char:EOLhyphen"/>ned; or, after an age's durance in their graves, but revive a litle before their doome; how gladly would they turne their ſongs of pleaſure into penitentiall anthems, their profane notes into di<g ref="char:EOLhyphen"/>viner ayres; and tune out their lives in pious ſtraines.</p>
+               <p>But alaſſe! he that cannot imploy this life well, in vaine expects to do it in another, which he is not worthy of might it be obtained. He whoſe piety here hath reacht him a taſte of heaven, a glimpſe of happineſſe, will be ſo little in love with the vanities of this world, that inſtead of deſiring a longer or another life here, he will be but ambitious of leaving This.</p>
+               <p>It was by thy power, O Lord, That <hi>Lazarus,</hi> carried out to his grave, ſhould returne alive. That Mournefull expreſſion (thy friend is dead) drew thee to the diſcovery of thy love and power, in his reſurrection. O let there be the ſame concurrence of thy Grace and ſpi<g ref="char:EOLhyphen"/>it, to the raiſing and reforming of my
+<pb n="48" facs="tcp:170521:29"/> ſoul to a new and holy life; it was the miſery of expiring man that drew thee from the boſome of thy Father to re<g ref="char:EOLhyphen"/>deem him. O let the Scepter of thy word and truth be as powerfull in its heavenly influence upon my ſoul, as the Prophet's ſtaffe that reviv'd the dead; that ſo dying daily I may live for ever, and being p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>epared for my death, may enter into that life from which nothing but ſin can exclude me.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Joh. Chap. 13. v. 23.</hi>
+                     </bibl>
+                     <p>Now there was leaning on Jeſus boſome one of his Diſciples whom he loved.</p>
+                  </q>
+               </epigraph>
+               <p>SEe how ſweetly is the Diſciple Couch't? how boldly doth he make his Maſter's breaſt his pillow, loading him with a double burden, his ſins, and himſelfe?</p>
+               <p>Bleſt familiarity! Would not Kings leave their thrones to have been in his room, and ambitiouſly forſake their Golden Canopies, for ſu<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a tepoſure? Here might the vaſteſt ambition both ſeat and ſatiate it ſelfe without aſpiring
+<pb n="49" facs="tcp:170521:29"/> higher: the greateſt Avarice might here have found a treaſure beyond which it could not cover. What Lover would not ſcorne the lap of the moſt admired female, for ſuch an enjoyment, and be<g ref="char:EOLhyphen"/>come a Diviner Amoriſt.</p>
+               <p>Was not this Diſciple above the reſt? If this be not a precedency, what is? a dignity which none beſides himſelfe ſucceeded in.</p>
+               <p>Happy Favorite! Who would not have trampled Crownes and Scepters for ſuch preferment? Had
+<hi>Mary,</hi> in whoſe boſome (once Love's Cradle) ſo many wantons lull'd themſelves, that turn'd her eyes into Living Mineralls, and her haire into a towell of the neweſt faſhi<g ref="char:EOLhyphen"/>on, been graced with ſuch a priviledge, not her eyes onely but the nobleſt rivo<g ref="char:EOLhyphen"/>lets of her blood would have over<g ref="char:EOLhyphen"/>flowne, all tranſported out in gratefull ſtreames. How pleaſingly doth the Diſ<g ref="char:EOLhyphen"/>ciple lay his eare to that Heart which was the life of the world, as if he would count its motions, and by its Divine pulſe be rockt aſleep in raptures?</p>
+               <p>Behold, O my ſoul, and ſee in the po<g ref="char:EOLhyphen"/>ſture of this happy man, the Emblem of
+<pb n="50" facs="tcp:170521:30"/> thy owne felicity, the place of thy re<g ref="char:EOLhyphen"/>ception and future Glory. Art thou am<g ref="char:EOLhyphen"/>bitious of it here, then behold him on his Croſſe with his armes extended to receive thee: O run and rowle thy ſelfe on that Breaſt, the fear of Love, wherein lies all the treaſures of thy happineſſe. Thou haſt a priviledge even beyond the Diſciple, for thou mayſt not only leane and depend, but embrace him too: In<g ref="char:EOLhyphen"/>circle him now then with the choiſeſt endeerments of thy ſoule, the moſt paſ<g ref="char:EOLhyphen"/>ſionate raptures of a Lively faith; and ſo the ſame Jeſus that permitted the Diſ<g ref="char:EOLhyphen"/>ciple here to lean on his breaſt, will re<g ref="char:EOLhyphen"/>ceive thee likewiſe in his arms hereafter, and place thee for ever in the boſome of his Glory.</p>
+            </div>
+            <div type="meditation">
+               <pb n="51" facs="tcp:170521:30"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Math. Chap. 16. v. 26.</hi>
+                     </bibl>
+                     <p>For what is a man profited, if he ſhall gaine the whole world, and loſe his owne ſoul?</p>
+                  </q>
+               </epigraph>
+               <p>ANd yet men had rather loſe their ſouls than the world. He for whom the world was made, makes him<g ref="char:EOLhyphen"/>ſelfe for the world, diſappointing him<g ref="char:EOLhyphen"/>ſelfe of all his Glory, and by a more then brutiſh tranſmutation, buries the Divinity of his ſoul all in earth.</p>
+               <p>Heare this then ye, Inhabitants of the world, yee that fowle all in ſenſe, and climb no higher then the elements for Heaven; that can pawne your ſouls for a fading pleaſure, and count a delightfull miſery your felicity.</p>
+               <p>Hear this, thou aſpiring Vapour, whoſe ambition elevates thee to conſume thy ſelfe; thou that wilt worſhip Satan for a Kingdome, and do him homage for a Crowne, paying him a revenue worth a thouſand worlds, the immortall tri<g ref="char:EOLhyphen"/>bute of a ſoul; till thy triumphs be tur<g ref="char:EOLhyphen"/>ned to torments, thy revellings of hon<g ref="char:EOLhyphen"/>our
+<pb n="52" facs="tcp:170521:31"/> into regrets of horrour, and thy Chaire of ſtate into a bed of flames.</p>
+               <p>Heare this, thou Senſualiſt, whoſe ſoul is as unconfined as Brutes, that panteſt for pleaſure more then ever the Camae<g ref="char:EOLhyphen"/>lion did after aire, thou that wadeſt all in ſin, and overwhelmeſt Morality in floods of vice, bathing thy ſelfe in thoſe wanton ſtreames that drown thee, that counteſt religion but a fable, the lives of Saints a melancholly Romance, and laugheſt at heaven as if eternity were but a fancy.</p>
+               <p>Heare this, O thou Miſer, whom the Silver Rhetorick of a bag can court to Hell, and art greedily wonne to damne thy ſelfe at the Muſick of a purſe; that canſt gaze thy ſelfe blind at the ſplen<g ref="char:EOLhyphen"/>dour of a Gemme and curſeſt Geography for deſcribing riches beyond thy reach; wiſhing thy ſelfe an Indian that thou mighteſt dwell among Treaſures, and in<g ref="char:EOLhyphen"/>habit Mines, till thy very haire became ſilver indeed, till thou thy ſelfe went all turnd to Ore, and and every Bone into a wedge of Gold.</p>
+               <p>Heare this, ye Gallants, that are ſo en<g ref="char:EOLhyphen"/>amounted with the faſhions of this world, that ye have loſt all Idaea's of a
+<pb n="53" facs="tcp:170521:31"/> better ye that live meerly to pleaſe your ſenſe, and feed your luxury with the curious martyrdom of a thouſand creatures. As ye have purer veins, have purer paſſions too, and have nobler in<g ref="char:EOLhyphen"/>clinations for heaven: the riches of your attire wil not cloathe you with immor<g ref="char:EOLhyphen"/>tality: ſhould you ſell your eſtates when ye die, 'twould not purchaſe paradiſe. It was the beſt ſpeech the old Oratour ever uttered when he ſaid,
+<hi>he would not buy repentance ſo deare.</hi> 'Twas but an extemporary expreſſion, and yet all his Rhetorick could never match it: that one ſtraine was worth all his Orations and will outfame the labours of his pen.</p>
+               <p>Could we treble the lives of Patri<g ref="char:EOLhyphen"/>archs, and with them the pleaſures of the grandeſt Epicures; Could we, like <hi>Cleopatra,</hi> in a diſſolv'd pearl ſwallow the treaſure and pleaſure of a kingdome at a draught; or command the Creatures as peremptorily as ever the Centurion did his ſervants; had we all the enjoy<g ref="char:EOLhyphen"/>ments we can either wiſh or fancy, what ever the ambition of the moſt vaine and carnall appetite can long for; were the whole earth turnd into a pa<g ref="char:EOLhyphen"/>radiſe, or a conſtant ſpring beautifying
+<pb n="54" facs="tcp:170521:32"/> its face. Could we live and not grow old, or being old not feele the miſeries of age; could we unwind time againe and reverſe it's wheels, ſtop the coeleſ<g ref="char:EOLhyphen"/>tiall Mercuries, the poſts of heaven, in their courſe and ſet the Great Clock of the world backward againe; nay, were our bodies as durable as our ſoules, that we could out live Time it ſelf, and be above ground, even when the world ſhall re<g ref="char:EOLhyphen"/>ceive its period: yet what ſhall we get, if after all our imaginary felicities and ſliding contentments, we become a ſa<g ref="char:EOLhyphen"/>crifice for hell, enliſted in the curſed catalogue of the damned crue, a victime for eternal flames, loſt for ever from God and Heaven. Then tell me who ever thou art and aske <hi>Dives</hi> himſelf, What is man profited though he ſhould gaine the whole world, and loſe his owne ſoule?</p>
+               <p>What is there in the world, O Lord, that we ſhould love it thus, weary our ſelves in vaine deſires and make the pleaſures of this life our felicity? How hard is it for him that is a ſtranger to thy law to perceive the emptineſſe of thoſe enjoyments he hath ſo long rowled
+<pb n="55" facs="tcp:170521:32"/> himſelfe in, to reſiſt the tempting ad<g ref="char:EOLhyphen"/>vantages of ſin, and undervalew the fla<g ref="char:EOLhyphen"/>ſhes of this life for that glory Thou wilt impart. My God, teach me ſo to en<g ref="char:EOLhyphen"/>joy the world that I loſe not Thee, let the bleſſings thou beſtovveſt quicken and increaſe, not dul my devotion; raiſe up my obedience not drowne my gra<g ref="char:EOLhyphen"/>titude: that ſo the vanities of the world may be my ſcorne, and the joyes of hea<g ref="char:EOLhyphen"/>ven my onely ambition; that I may ne<g ref="char:EOLhyphen"/>ver for a periſhing fruition in this life loſe both my ſoule, and thy grace, to<g ref="char:EOLhyphen"/>gether.</p>
+            </div>
+            <div type="meditation">
+               <pb n="56" facs="tcp:170521:33"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Matth. Chap. 5. v. 8.</hi>
+                     </bibl>
+                     <p>Bleſſed are the pure in heart: for they ſhall ſee God.</p>
+                  </q>
+               </epigraph>
+               <p>WHo then would not ſtrive to be<g ref="char:EOLhyphen"/>come pure? No wonder <hi>David,</hi> was ſo earneſt for a clean heart, and a right Spirit: if this be the reward of Pi<g ref="char:EOLhyphen"/>ety who would not become religious? Bleſt Spirits! how happy, how pure are ye, that behold the face of your Heaven<g ref="char:EOLhyphen"/>ly Father, who would not labour to im<g ref="char:EOLhyphen"/>itate you heer, that he might be like you there, and poſſeſſe joyes ſuch as rap<g ref="char:EOLhyphen"/>tures never knew. Shall the falſe and treacherous vanities of the World ſteale away our hearts, and rob us of the hopes of this Glory, the fruition of this Sight?</p>
+               <p>A Sight, in Compariſon whereof the royalties of the World, the triumphs and ſplendours of the eye, and the beau<g ref="char:EOLhyphen"/>ty of the whole Creation is not worth the looking at. A ſight, which no eye ever ſaw, but may, if it do not blindly loſe it ſelfe on objects heere. No Ear ever heard its perfect deſcription; but
+<pb n="57" facs="tcp:170521:33"/> may the Harmony and Halelujahs of it, if it bow not to the charms of ſinne and the muſick of the fleſh.</p>
+               <p>'Tis a ſight, whoſe Ideae cannot be drawn by the moſt lively, and ſubtile Speculations of any Scholaſtick brain though never ſo Angelical; 'tis not fancy but piety can reach it.</p>
+               <p>The Divine Traveller St. <hi>Paul</hi> him<g ref="char:EOLhyphen"/>ſelfe, though newly there, could not give us a Copie of it; and Scripture Characters it out but in Similitudes, to ſhew how infinitely tranſcendent is that Glory which is ſo much above ex<g ref="char:EOLhyphen"/>preſſion, ſo much above all com<g ref="char:EOLhyphen"/>prehenſion. Were all the Diamonds the earth is mother of, muſtred to a Splendour they would not match the ſmalleſt glance of the Sun's eye: and yet that noble Luminary ſurrounded with ſo many waiting Starrs, that begge their luſtre from him, is but a ſparke to the Brightneſſe of of His face.</p>
+               <p>Who then would ſacrifice that part to the World, which may become the inſtrument of ſo much happineſſe? and ſuffer the extravagancies of his blood to revell there, where nobler paſſions and flames ſhould triumph?</p>
+               <p>
+                  <pb n="58" facs="tcp:170521:34"/>He that would dwell among the Spirits of the juſt, muſt teach his own to become ſo; and turne his body to a Temple, wherein his heart muſt be the the Altar and Sacrifice too; or rather a kinde of <hi>Sanctum Sanctforum,</hi> for the choiſeſt Gifts of the Spirit, to inha<g ref="char:EOLhyphen"/>bite.</p>
+               <p>The Seat of Life muſt be turn'd into the Seat of Love, and the pallace of the Spirits into a Court of Graces, and then that part which (as Naturaliſts obſerve) is the firſt that lives, and the laſt that dyes, ſhall become purely vitall, and not dye at all.</p>
+               <p>Nothing but a Trinity can fill this Triangle, which we muſt therefore ſhape to the pureſt forme, and teach it in all its pulſes, to beate nothing but Heaven and Sanctity. Our breaſts muſt become Cloſſets of Devotion and our hearts the Cabinets of innocency and prayer, enricht with that great diamond, a lively faith, the Lamp at which all our ſmaller Graces as Can<g ref="char:EOLhyphen"/>dles light themſelves, and like Stars borrow their Luſtre from this Lumi<g ref="char:EOLhyphen"/>nary.</p>
+               <p>'Tis not a heart that can dance to the
+<pb n="59" facs="tcp:170521:34"/> Tune of any Religion, and pretend a Sanctity which it wears onely in its face, that makes Fancy its Conſcience, and ſtiffneſſe of humour tenderneſſe of Spirit.</p>
+               <p>No, 'tis a heart robed with Humili<g ref="char:EOLhyphen"/>ty and Crowned all with Love, per<g ref="char:EOLhyphen"/>fum'd by Prayers, the odours of Cha<g ref="char:EOLhyphen"/>rity, and the fragancies of a pious life, that couches it ſelf within the arms of our Saviour's Spouſe, and becomes a mourner in its perfections, that looks upon the World as the Enemy of its Glory, and had rather dye then be a Re<g ref="char:EOLhyphen"/>bell againſt Heaven. 'Tis ſuch a Heart that prepares us for this Viſion; and happy is he, that's ſuch a Puritan.</p>
+               <p>Strengthen us therefore, O Lord, againſt the vanities of the World, and raiſe up our thoughts to the Contem<g ref="char:EOLhyphen"/>plation of thy Glory. Levell in us e<g ref="char:EOLhyphen"/>very proud thought that dares exalt it ſelfe againſt the power and purity of thy Law: and Sanctifie us for thy ſelfe and thy Service more, that the practiſe of a Holy life may be, as it ought, our chiefeſt employment, that ſo when we depart from hence we may be receiv<g ref="char:EOLhyphen"/>ed to Thee, and being ſeen no more
+<pb n="60" facs="tcp:170521:35"/> heere may for ever ſee there, what be<g ref="char:EOLhyphen"/>fore, neither eye hath ſeen, nor eare heard, nor heart conceived, the Glory thou wilt impart in the fruition of Thy ſelfe.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Matth. Chap. 8. Verſe. 2.</hi>
+                     </bibl>
+                     <p>Lord, if thou wilt Thou canſt make me cleane.</p>
+                  </q>
+               </epigraph>
+               <p>IS not ſinne a Leproſie! Then the Le<g ref="char:EOLhyphen"/>pers Prayer, is every Sinners too. Hee that had ſeen the Leper's body, would not have wondred at his Prayer: and yet could he but have viewed his Soul, he might perhaps have ſeen objects of more prodigie and Horrour: the miſeries of his blood which had loſt its verdure, and become but an unprofitable friend to Nature, every part being as it were dead-alive, by ſo unnatural a Nutrition, taught his tongue this Neceſary though Mournfull kind of Confidence, <hi>Lord, if thou wilt.</hi>
+               </p>
+               <p>And Hee, whoſe Compaſſion never failes, to ſhew that his Goodneſſe was as great as his power, would not reject
+<pb n="61" facs="tcp:170521:35"/> a Suite wherein his Mercy was con<g ref="char:EOLhyphen"/>cerned; and thoſe limbes which might have been ſooner drown'd then bathed into a Cure, re-aſſume new life and beauty by the bounty of a Touch.</p>
+               <p>Thus the Leper is new bodyed a<g ref="char:EOLhyphen"/>gaine: but we read not of any Cure wrought upon his better part, and that perhaps had more need. The bedrid Man his Succeſſour was farre happier, whoſe ſinne and diſeaſe were both taken a<g ref="char:EOLhyphen"/>way together.</p>
+               <p>How many are there that, like the Leper, looke no higher then their bo<g ref="char:EOLhyphen"/>dyes, whoſe Superficies is all their re<g ref="char:EOLhyphen"/>ligion; whilſt the nobler peece that gives them life, lyes all neglec<g ref="char:EOLhyphen"/>ted under ſome Chronicall infecti<g ref="char:EOLhyphen"/>on?</p>
+               <p>Our blood ſhall have all the delica<g ref="char:EOLhyphen"/>cies, that Art or the moſt Chymicall Luxury can invent to feed its flames; whilſt our brighter part, the Divine and Celeſtiall fire which inſpires us, lyes all quencht and rob'd of its immortall aliment, and can carry back nothing but a dimme and Hectick luſtre to it Ma<g ref="char:EOLhyphen"/>ker.</p>
+               <p>The torment of Limbe ſhall teach
+<pb n="62" facs="tcp:170521:36"/> us more devotion in an houre then all the concernments of our Soules could do in a yeer before, and the deformity of the meaneſt part will be an object of more ſhame and ſorrow to us, then thoſe pale and infernall ſhapes that attend ſinne and disfigure Heaven in us.</p>
+               <p>Of all plagues this is the greateſt and yet leaſt feared, as if Hell were but a Toy, Damnation a Pleaſure, and the miſeries of our Soules a Recreation to us.</p>
+               <p>Shew me that beauty that's not a Le<g ref="char:EOLhyphen"/>per, that innocence which carries not a guilt to bluſh at; that Saint, that infant man, that knowes not what it is to ſinne.</p>
+               <p>Were our veines purer then the lips of Violets that perfume the Chymiſtry of the aire, the drops of the Morne; were <hi>Adam's</hi> ſinne a ſtranger to our blood, and our birth cleer, as the Morn, innocent as the new-blown Roſe: yet the deformity of our lives would ſoon teach us this prayer, and the blackneſſe of our very thoughts would ſilently proclaime our uglineſs.</p>
+               <p>And yet, was not there not in thoſe
+<pb n="63" facs="tcp:170521:36"/> dayes a Generation that were cleane in their own eyes, that juſtified them<g ref="char:EOLhyphen"/>ſelves even in their impurity and coun<g ref="char:EOLhyphen"/>ted all the World but Lepers to them? Was not the Phariſee a greater Leper than the Publican, though ſo proudly he diſplayed his beſt plumes? His ve<g ref="char:EOLhyphen"/>ry Pride carried more Contagion with it, than the other Mans Sinns all put to<g ref="char:EOLhyphen"/>gether.</p>
+               <p>Hee that truſts to the merit of his owne paint, may loſe Heaven and thoſe joyes which an humbler Confidence ſecures.</p>
+               <p>O Lord, though I am not ſo bad perhaps as ſome, yet am I ſo b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in my ſelfe, that the Leper heere is a beauty to my Soul,
+<hi>Lazaruſſe's</hi> Corps a come<g ref="char:EOLhyphen"/>lineſſe to my ſores: yet were I more im<g ref="char:EOLhyphen"/>potent then the Cripple of <hi>Betheſda,</hi> more Leprous then the Nine, whoſe ingratitude was more loathſome then their diſeaſe; were thoſe Legions, e<g ref="char:EOLhyphen"/>jected by thy word, received in me; were I as bad as Satan could wiſh to make me; yet I know thy Goodneſs and I do not doubt thy power. For, Lord if Thou wilt, Thou canſt make me clean.</p>
+            </div>
+            <div type="meditation">
+               <pb n="64" facs="tcp:170521:37"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Matth. Chap. 24. v. 39.</hi>
+                     </bibl>
+                     <p>And knew not, untill the Flood came and took them all away.</p>
+                  </q>
+               </epigraph>
+               <p>HOw ſecurely did theſe ſinners cram themſelves for deſtruction? or, as if forſeeing their inundation, they would by full ſtomacks labour to prevent an entrance. Life and luxury were ſuch in<g ref="char:EOLhyphen"/>ſeparable companions here, that nothing but Death could part them. They had waded ſo long in an Ocean of ſin, it was impoſſible to eſcape drowning, and not be ſurrounded with the depths of a quick and overflowing judgment.</p>
+               <p>
+                  <hi>Noah</hi> might have preach't himſelfe dumb, and have ſooner talk't himſelf a<g ref="char:EOLhyphen"/>ſleep in mild and fluent admonitions, than awake theſe drunkards; had not the waves made uſe of a rougher language; and, in their owne ſwelling dialect, the prodigious roring of the depths buried them and their riotts in ſilence toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p>Had not God otherwiſe promiſed the world how often had it ſince been de<g ref="char:EOLhyphen"/>lug'd? They were but eating &amp; drinking;
+<pb n="65" facs="tcp:170521:37"/> but we do even glut and carrouſe it in ſin, commit ryots upon Hell, and can teach the Epicure himſelfe to revell.</p>
+               <p>Our forefathers were but dwarfs to us in ſin, whoſe tranſgreſſions have to far tranſcended theirs in bulk, that we are become greater Giants in iniquity then thoſe of the firſt age.</p>
+               <p>So monſtrous is Sin ſtill in its product<g ref="char:EOLhyphen"/>ions, that the whole earth like an in<g ref="char:EOLhyphen"/>fernal Africk brings forth new prodigies of vice daily, that (were the world in a conſumption as ſome think
+'tis, in vertue onely, and the iniquities of the times) when they ſeem to be quite full, are but increaſing ſtill.</p>
+               <p>They were but cold phlegmatick crimes that drown'd the world, to the fiery ſins of this hotter age, that ſhall (and have already almoſt) ſet it in a combuſtion. 'Tis another element then that of water, muſt puniſh the feared Conſciences of this age; and chaines of darkneſſe muſt fetter thoſe that run after new lights, the metors of their owne invention.</p>
+               <p>The world was already drown'd in ſin, when the waters, to compleat it's exceſſe, came and carried away theſe living-dead men, and buried them in the ſame grave together.</p>
+               <p>
+                  <pb n="66" facs="tcp:170521:38"/>Such is the fruit of a careleſſe life, the miſeries of a retchleſſe impenitency; they were revelling in their feaſts when the greedy element devoured them, and they that drank iniquity like water, had a fit puniſhment for their iniquity. The waves grow high and mount up to a tombe, the ſea becomes a ſpatious mon<g ref="char:EOLhyphen"/>nument both to hide and waſh away their ſin, and they that ſwam in mirth, are now ſwallowed up in ſtreames, and little dreaming of their deaths, are ſhip<g ref="char:EOLhyphen"/>wrackt in their very houſes in the midſt of their pleaſures, being fatally ſuprized by a terrible and unwelcome gueſt.</p>
+               <p>So righteous art Thou, O Lord, and infinitely pure, that thy Juſtice, though it may ſeeme to winke at, yet will not pardon impenitence, nor paſſe by the reſolv'd impieties of wilfull tranſgreſſ<g ref="char:EOLhyphen"/>ours: and yet ſo infinitely good that thou never heighteneſt thy puniſhments but when men do their iniquities; nor are thy judgments epidemicall but when ſin is ſo. Thou that deſireſt not the death of a ſinner, wouldſt not have deſtroyed ſo many even all, had not their tranſgreſſions been ſo univerſally pro<g ref="char:EOLhyphen"/>digious,
+<pb n="67" facs="tcp:170521:38"/> that they came up in a cry to<g ref="char:EOLhyphen"/>gether to pull downe thy juſtice. And though thou haſt ſince out of the great<g ref="char:EOLhyphen"/>neſſe of thy love and compaſſion promi<g ref="char:EOLhyphen"/>ſed a ſecurity from the ſame, yet not from all puniſhment. Let the memory therefore of thoſe that periſht by thy wrath for their neglect, remind us of our duty and thy glory; that ſo the ex<g ref="char:EOLhyphen"/>amples of thy judgments upon others, may teach us, by a lively repentance to prevent our owne.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Luke Chap. 7. v. 5.</hi>
+                     </bibl>
+                     <p>For he loveth our nation, and hath built us a Synagogue.</p>
+                  </q>
+               </epigraph>
+               <p>BEhold the character of a good Magi<g ref="char:EOLhyphen"/>ſtrate! one that might well be ſty<g ref="char:EOLhyphen"/>led the father of his country though a Roman, whoſe patronage ſo eminently extended itſelfe over both, and the beſt part of their commonwealth.</p>
+               <p>This man was Cheife not onely in place but in piety too, all <hi>Judea</hi> could not match him, which ſince it loſt its freedome, was not wont to find
+<pb n="68" facs="tcp:170521:39"/> or enjoy the happineſſe of ſuch Rulers: and had they not hated Idolatry they would have worſhipped this lover of their nation.</p>
+               <p>
+                  <hi>Herod</hi> indeed, did re-build their Tem<g ref="char:EOLhyphen"/>ple, but it was more for feare then love; 'twas not out of piety but policy, the better to get the crowne; 'twas his am<g ref="char:EOLhyphen"/>bition not his devotion, that founded that ſtately edifice; not ſomuch out of zeale to God or his countrey, as out of pure religion of becoming King.</p>
+               <p>Such is the Sanctity of the world; which makes Gods Honour, not the foundation, but a paſſage to their owne; turnes religion into a footſtool for am<g ref="char:EOLhyphen"/>bition, and makes heavenly pretenſions a ſtair-caſe to iniquity.</p>
+               <p>The Centurion here was a benefactor to the Nation out of pure zeal; and if not of their religion, yet a great freind to it; whoſe charity, not content to ſhew it ſelfe in the management of their civill intereſts only, ſo nobly em<g ref="char:EOLhyphen"/>ployed its power for the good of their ſouls and Church.</p>
+               <p>Unlike the Rulers of the world, whoſe Religion it is to have none at all, and are ſuch lovers of ſacred Foundations,
+<pb n="69" facs="tcp:170521:39"/> that inſtead of laying new, they are the onely new faſhion Templers, that dare fight for to ruine the old, and defend their pulling down. Piety is lovely even in the meaneſt, but in Kings and governours it carries a ſplendour like thoſe rayes that ſurround the head of a pictur'd Saint.</p>
+               <p>Pyramids, whoſe proud-reach dares juſtle the clouds and make them ſtum<g ref="char:EOLhyphen"/>ble in their race; Piles of Alablaſter carv'd to various ſhapes and pictures, lively as the dead, and the more like becauſe both breathleſſe; Tombes of marble; Vaults of braſs, are but poor monu<g ref="char:EOLhyphen"/>ments, worthleſse conſervatours, to that building without hands, wherein deceaſed Piety eternally ſhall live.</p>
+               <p>The Centurion here by building Syn<g ref="char:EOLhyphen"/>agogues, raiſ'd a ſtructure to his owne memory that hath out laſted them; and the Jewes, raviſh't with ſuch unwonted favours in a Ruler, to expreſſe their Gra<g ref="char:EOLhyphen"/>titude, run in ſtreames to Jeſus, and pe<g ref="char:EOLhyphen"/>tition him to heal his Son, preſſing him with an argument of great force with them; for, He hath loved our Nation, and built us a Synagogue.</p>
+               <p>Such honour have all they that Ho<g ref="char:EOLhyphen"/>nour
+<pb n="70" facs="tcp:170521:40"/> Thee, O Lord, whoſe zeale for thy Glory, ſeldome returnes empty to themſelves: the meaneſt offering to thy Altar, is not onely accepted, but rewar<g ref="char:EOLhyphen"/>ded too; and they that make it their Ambition to exalt thy Name, ſhall not have theirs forgotten.</p>
+               <p>Let not thoſe that knew Thee not, be more paſſionate for thy Glory then we, whoſe very Profeſſion ought to adorne our Religion; whoſe bodies ought to become Temples, fit to entertaine thy Spirit, the ſpirit of Holineſſe of Love.</p>
+               <p>Thou wilt now no more be worſhipt in Synagogues, but more ſpirituall Aſ<g ref="char:EOLhyphen"/>ſemblies: Teach us therefore, to turne our ſouls into Sanctuaries, and to raiſe up our thoughts in more lively addreſſes that we may not ſo much endeavour, to obtaine the worlds time by a moral fame as by the Sacrifice of obedience, the Righteouſneſſe of eternity.</p>
+            </div>
+            <div type="meditation">
+               <pb n="71" facs="tcp:170521:40"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Luke Chap. 9. v. 57.</hi>
+                     </bibl>
+                     <p>Lord I will follow Thee, whitherſoever Thou goeſt.</p>
+                  </q>
+               </epigraph>
+               <p>IT was the beſt reſolution he ever made: nor can any blame him for his boldneſſe, when it was his glory to have been an intruder; he might have gone on long and farre enough, and not have met with ſuch heavenly Company. Was it his Confidence, or his Love to Jeſus, that put him on?</p>
+               <p>See with how pious an importunity he accoſts him, whom perhaps, he had never ſeen, nor known before but by his Miracles onely; and that life which ſo aſtoniſh't the eyes of the world, could not but attract his and his heart too; and therefore thinking it no preſumpti<g ref="char:EOLhyphen"/>on to uſe all meanes of bettering him<g ref="char:EOLhyphen"/>ſelfe, nor willing to loſe ſo fair an op<g ref="char:EOLhyphen"/>portunity of becoming happy, ambiti<g ref="char:EOLhyphen"/>ous of an admiſſion, all in raptures without any other Complement then an humble earneſtneſſe, ſalutes Him. Lord, &amp;c.</p>
+               <p>Nor could our Saviour's poverty ſtop
+<pb n="72" facs="tcp:170521:41"/> or weaken his reſolve, or diſcourage his intention; being not onely Content, but Ambitious to ſhare even in the mi<g ref="char:EOLhyphen"/>ſeries of ſo good a Maſter, in whoſe very wants he ſhould find a felicity be<g ref="char:EOLhyphen"/>yond all the enjoyments of the earth.</p>
+               <p>Is not this Man a preſident for the whole world? He that will not follow Jeſus out of love, yet let him not for ſhame ſuffer a Jew or Publican to out<g ref="char:EOLhyphen"/>ſtep and ſtrip him too. Are the joyes of an everlaſting Bliſſe, of ſo poor a value; that they are not worth the coming to? or ſhal we think any ſtep too weary that brings us to happineſſe?</p>
+               <p>Were the way to heaven but ſtrewed with roſes or a thouſand pleaſures to re<g ref="char:EOLhyphen"/>vive the fleſh, the ſenſualiſt would turne a conſtant walker there, and be the for<g ref="char:EOLhyphen"/>moſt in thoſe pathes; the rich Man can<g ref="char:EOLhyphen"/>not follow Jeſus for his pretious Lug<g ref="char:EOLhyphen"/>gage: with which, becauſe he cannot; without it, he will not ſtirre.</p>
+               <p>The Epicure will not be of a Religi<g ref="char:EOLhyphen"/>on that preſcribes him temperance; for although perhaps he might make a ſhift to pray, he cannot tell how to faſt.</p>
+               <p>The way to heaven is too narrow for Ambition, whoſe lofty port loves not to
+<pb n="73" facs="tcp:170521:41"/> be ſtrained in its paſſage, but muſt have a road wide as the world or Hell can make him, wherein his traine of ſinfull glories may follow him in a breaſt toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p>So difficult a thing it is, to leave the world even for heaven, and ſtrive againſt the blandiſhments of ſenſe for an inva<g ref="char:EOLhyphen"/>luable bliſſe; as if all our hopes, all our happineſſe were lap't and tied up in the Concernments of this life onely, and no other expectation for us beſides the pleaſures of Mortality.</p>
+               <p>And yet how many are there that pre<g ref="char:EOLhyphen"/>tend to follow Jeſus but are meer ſtran<g ref="char:EOLhyphen"/>gers to his footſteps, that purſue tracks not of his making, but their owne find<g ref="char:EOLhyphen"/>ing. That path which ſo many holy men have footed before us, is too common, too prophane for them to tread in; they have found out a neerer Cut of their own, and think they ſhall come to Hea<g ref="char:EOLhyphen"/>ven the ſooner by turning out of the way. So unfortunate is that zeal which will needs be wandring after ſpu<g ref="char:EOLhyphen"/>rious and impoſtur'd Lights; and ſcor<g ref="char:EOLhyphen"/>ning the uſuall footſteps of the Church, loſes it ſelfe in the blind and dark Me<g ref="char:EOLhyphen"/>anders of Enthuſiaſme.</p>
+               <p>
+                  <pb n="74" facs="tcp:170521:42"/>The way to heaven is not in a Cor<g ref="char:EOLhyphen"/>ner, and however narrow, is open ſtill:
+'tis a path whoſe proſpect is happineſſe; nor need he feare to loſe his way, that doth not wilfully turne out of it, the poore Man here, all tranſported, runs to Jeſus, and mixing Humility with Reſo<g ref="char:EOLhyphen"/>lution, becauſe he will not be denyed, in a begging kind of Confidence tells him, Lord &amp;c.</p>
+               <p>Who would not foot it even through wants and wilderneſſes, to come to <hi>Ca<g ref="char:EOLhyphen"/>naan?</hi> He that followes Jeſus ſhall have no Cauſe to repent his journey. He ſhall find ſuch treaſures even in the po<g ref="char:EOLhyphen"/>verties of religion, ſo much of Heaven and Contentment in the ſeeming miſe<g ref="char:EOLhyphen"/>ries of a pious life, that he will not need much perſwaſion to make it his own re<g ref="char:EOLhyphen"/>ſolution here, and cheerfully leave all to follow Jeſus.</p>
+               <p>Do thou therefore elevate our ſouls from the world, O Lord, and make them covetous of ſeeking thee and the things that are above: Thou art aſcended to thy Throne in the rapture of Glory, draw our ſouls after thee in the raptures of Love and ſpirituall exaltation, that
+<pb n="75" facs="tcp:170521:42"/> we may make the virtues and perfection of thy Life the rule of ours, and grant that we may not be ſo affected with the things of this world, that we ſhould have no paſſion for thy Glory: but make us to walke Cheerfully in that way which thou haſt gon and ſet before us, that as we live by thy Goodneſſe, we may live to thy Glory; and as we move in Thee, we may be ever moving to<g ref="char:EOLhyphen"/>wards Thee, till we enjoy the Happi<g ref="char:EOLhyphen"/>neſſe of an eternall reſt in thy King<g ref="char:EOLhyphen"/>dome.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Matth. Chap. 9. v. 38.</hi>
+                     </bibl>
+                     <p>Pray ye, therefore, the Lord of the Har<g ref="char:EOLhyphen"/>veſt, that He would ſend forth more labourers into his harveſt.</p>
+                  </q>
+               </epigraph>
+               <p>NO Prayer more neceſſary than this, nor this ever ſo much as now. Who would not burne and labour in his de<g ref="char:EOLhyphen"/>votions, and earneſtly preſs heaven with reſtleſſe and religious votes to Compaſ<g ref="char:EOLhyphen"/>ſionate our want?</p>
+               <p>Every one may well make it his voca<g ref="char:EOLhyphen"/>tion now, without encroching on ano<g ref="char:EOLhyphen"/>thers
+<pb n="76" facs="tcp:170521:43"/> office, and turne labourers in ſo pious a work as this, to pray for the proſ<g ref="char:EOLhyphen"/>perity of the Goſpell.</p>
+               <p>Who can ſee the Garden of the Lord become a deſart, folds of Lambs inhabi<g ref="char:EOLhyphen"/>ted by foxes, the Houſe of prayer turn'd into the ruines of Sacriledge, and the Meſſengers of our peace glad to become the objects of our pitty, without mournfull and Compaſſionate reflecti<g ref="char:EOLhyphen"/>ons? How vainely do they pretend af<g ref="char:EOLhyphen"/>fection that ſtrip their Mother, and count the exorbitances of their Phan<g ref="char:EOLhyphen"/>ſies, the decencies of the Goſpell.</p>
+               <p>Can there be any want of Labourers where ſo many are, where every man becomes one himſelfe? when ſheep be<g ref="char:EOLhyphen"/>come ſhepheards, and Flocks are Meta<g ref="char:EOLhyphen"/>morphoſed into Paſtors. Every one can now handle the religious ſickle; he that can but talk or ſmatter Scripture, thinks himſelfe divinely calld, ſufficiently in<g ref="char:EOLhyphen"/>ſpired for a Sermon; and out of the ſim<g ref="char:EOLhyphen"/>plicity of his zeal will needs be climbing up a pulpit.</p>
+               <p>Thus <hi>multitudes</hi> of <hi>teachers</hi> produce a <hi>ſcarcity,</hi> and we want the
+<hi>more</hi> by having ſo <hi>many.</hi> We may well pray then for a new <hi>Miſſion,</hi> or the <hi>taking away</hi> of thoſe,
+<pb n="77" facs="tcp:170521:43"/> that do not <hi>hedge,</hi> but <hi>devour</hi> the vine<g ref="char:EOLhyphen"/>yard.</p>
+               <p>He that loves his Saviour will delight and triumph in the felicity of his ſpouſe, in whoſe armes alone we can mount to happineſſe, and ever beg a perpetuity of its Glory. He deſerves not to reape or ſhare in the bliſs of an immortall harveſt that will neither labour himſelf nor pray for the proſperity and increaſe of them that do.</p>
+               <p>And who, O Lord, can caſt his Eye upon thy bleeding Spouſe without a teare? or upon its unruly Adverſaries without a Sigh for its protection? O let thy accuſtomed mercy ſtop the wild<g ref="char:EOLhyphen"/>eſt Boare, and root out the moſt miſ<g ref="char:EOLhyphen"/>chievous foxes that may deſtroy it. Thou haſt founded It upon a Rock, no ſtorms ſhall ruine it, and haſt plac't it on high to be ſeen and approacht by all; let us not blindly turn out of the Way, or fal into praecipices for want of know<g ref="char:EOLhyphen"/>ing guides. Let not thy Oracles be<g ref="char:EOLhyphen"/>come dumbe for want of Prieſts; or the Glad tydings of our Peace, be turned to ſilence, for want of faithfull meſſengers; but thou, O Lord, both ſup<g ref="char:EOLhyphen"/>ply
+<pb n="78" facs="tcp:170521:44"/> defects, and reforme abuſes that ſenſibly creepe in: forgive the Zeale of thoſe, they know not what they do.</p>
+               <p>Let the Light of thy countenance graciouſly diſpell that darkneſſe and confuſion wherein we lye Eclips't. Then ſhall we ſing and Prayſe Thy Power.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Matth. 2. Verſ. 10.</hi>
+                     </bibl>
+                     <p>And when they ſaw the Starre, they rejoyced with exceeding great Joy.</p>
+                  </q>
+               </epigraph>
+               <p>COuld a Starre become ſuch a wel<g ref="char:EOLhyphen"/>come object to Aſtrologers, whoſe eyes had contracted an acquaintance with the Spheres and taught the Pla<g ref="char:EOLhyphen"/>nets to become familiar? Or was it the appearance of a new born Light that crown'd their Joy. That Stars ſhould become guides, and not only light but Leade me too; 'twas indeed a wonder they never ſaw before, and which no Aſtronomer beſides themſelves, though never ſo celeſtiall, could yet Parallel.</p>
+               <p>
+                  <pb n="79" facs="tcp:170521:44"/>Had <hi>Ariſtot<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> known this, he would have made the Stars the Dieties of the Sphears, and not pearcht Intelligences at their backs to roule them. This was ſome living ſplendour, ſure, that could both ſhine, and ſhew the way. A luminary more quicking then that Giant one, that ſpreads the Morne, and carries Time within his armes. And they whoſe ruder devotion, whoſe Idolatry taught them to adore the Sun, could not but religi<g ref="char:EOLhyphen"/>ouſly ſalute the Herauld of a brighter One they came to worſhip.</p>
+               <p>See how Pagans foot it from the Eaſt, and cheerfully make it but a walke from the remoteſt Climate to come and wor<g ref="char:EOLhyphen"/>ſhip a Redeemer; while ſome will ſcarce travell from their chambers to preſent a cheaper offering of gratitude than this. They counted it the beſt journey they ever made, and for a teſtimony of their joy preſented offerings, the richeſt their Countries yeilded, and made the Inne their Temple, to pay the tribute of their adoration in, to the Lord of Glory; whilſt ſome ſacrilegiouſly ſtrip him of his Divi<g ref="char:EOLhyphen"/>nity for the greater honour of his name.</p>
+               <p>They had but a ſingle ſtarre to guide them, but we can ſhew multitudes of
+<pb n="80" facs="tcp:170521:45"/> new lights to darken the Goſpell, troops of Quaking comets, the Apparition of whoſe zealous and fiery aſpects, would rather fright then lead the way.</p>
+               <p>Thus pretended Illuminations of our owne making, do not embrighten but eclipſe religion; and inſtead of opening blind us more; It was a reall not affrigh<g ref="char:EOLhyphen"/>ted luminary that ſteer'd the Wiſemen here, who triumph't to behold that day which we ſtudy to forget. If they were not Kings, yet their very fortunes would have made them Illuſtrious: Ne<g ref="char:EOLhyphen"/>ver had Travellours before, ſo ſplendid a Convoy, ſo bright a Guid.</p>
+               <p>The heavens proclaime thy glory, O Lord, and the firmament reveals the ex<g ref="char:EOLhyphen"/>cellence of thy wiſedome. 'Twas fitt that thou who haſt cloathed the world with light and inricht it with ſo many rowl<g ref="char:EOLhyphen"/>ing mirrours, ſhouldſt have one to be the herald of thy nativity. All the creatures, even with delight obey thy will, whilſt we rebelliouſly ſtop our eares to the harmony of thy law. The wiſe men had no ſooner notice of thy birth, but they grew angry with time it ſelfe, till they began their journey; and, that they might
+<pb n="81" facs="tcp:170521:45"/> be ſure not to looſe their way, thou ſent<g ref="char:EOLhyphen"/>eſt out a Convoy; a Starr becomes an Evangeliſt and runs poſt to guide them. So fortunate are good motions when they are put in practice, they that would ſeek thee, ſhall not want meanes to find thee though it be by miracle. Thou canſt ſteere us by a brighter luſtre than that of a Starre, even the illuminations of thy grace and Spirit.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Philip. Chap. 4. v. 12.</hi>
+                     </bibl>
+                     <p>I know both how to abound and to ſuffer need.</p>
+                  </q>
+               </epigraph>
+               <p>DIvineſt Saint! how few beſides thy ſelf have learn't it? 'Tis a Leſſon the world hath long ago putt by; not ſo much becauſe 'tis ſo hard, as becauſe its unpleaſant.</p>
+               <p>Were the way to heaven but ſet with pleaſures for ſenſe to revell in, 'twould quickly become an open and an eaſy walke: were there no rubs, no tryalls to to be paſt thorough, who would not be<g ref="char:EOLhyphen"/>come a Saint? The Crowne of Glory would be as Common as a Garland; were
+<pb n="82" facs="tcp:170521:46"/> there not one of Thorns to be worne firſt.</p>
+               <p>The world cares not for a Religion that carries neither pompe nor pleaſure with it, but inſtead of rich and high en<g ref="char:EOLhyphen"/>joyments preaches temperance and pa<g ref="char:EOLhyphen"/>tience onely. Even ſome of them that pretend heaven moſt, would not wil<g ref="char:EOLhyphen"/>lingly learn this, but abundantly provide for their better fortunes: and thoſe wants our Apoſtle learn't ſo nobly to ſuſtaine, too many out of better devotion labour, not to know.</p>
+               <p>He that bids us ſeek heaven firſt, tells us, that to long for earthly enjoyments is a Heathens wiſh: For after all theſe things do the Gentiles ſeek. And ſhall Chriſtians live like heathens ſtill, and looke no higher then the world? ſhall they that make eternity their ſphere ſit and rowle themſelves in the boſome of an under element, and poorely make the pleaſures of mortality their aime alone?</p>
+               <p>Was it for this, He that made the hea<g ref="char:EOLhyphen"/>vens bowed them and came down, leave<g ref="char:EOLhyphen"/>ing his throne to bring us thither, that we ſhould lie and grovel in our phlegme for ever?</p>
+               <p>
+                  <pb n="83" facs="tcp:170521:46"/>How vile and vaine a Creature is that man, that wraps up his felicity in the dull enjoyments of this life, and ſtill re<g ref="char:EOLhyphen"/>ſignes himſelfe to ſenſe alone? Tell me, O thou that ſwimmeſt in plenty and drowneſt heaven in oblivion, ſhould the luminaries put on their purple robe, and changing their luſtres, like bleeding Meteors turne their rayes into crimſon ſtreams; were the aire now filled with blaſts of the laſt Trump ecchoing an ap<g ref="char:EOLhyphen"/>proaching judgement; how prodigious would that change looke, what vaſt and horrid affrightments would the memo<g ref="char:EOLhyphen"/>ry of thy prophane and irreligious full<g ref="char:EOLhyphen"/>neſſe then ſtrike and ſcare thee with? Alaſs the enjoyments of the world are ſo poore, that he which places his hopes in their fruition, will quickly find him<g ref="char:EOLhyphen"/>ſelfe but an eternall Begger, a miſerable Dives.</p>
+               <p>And yet ſuch is the ſanctity of the world, to laugh ar religious poverty, and deride the exigences of a pious life as an enemy to nature. He knowes not the joyes of an expected eternity, that thinks there is no felicity beyond this ſpan.</p>
+               <p>Did we but know the reward ſhall crowne that the world calls Miſery, the
+<pb n="84" facs="tcp:170521:47"/> happineſſe that waits on the moſt ſuffer<g ref="char:EOLhyphen"/>ing and dejected devotion, we ſhould triumph in our wants, be in love with hardſhip, and embrace even beggery with delight. We ſhould be content not onely to die but to live martyrs, rejoyce even in the loweſt ebb to win heaven, and cheerefully learne with the Apoſtle to want here, for that fullneſſe which knowes none hereafter.</p>
+               <p>And yet how hardly can we endure even the ſmalleſt trouble for thy ſake O Lord? So inſenſible are we of thy good<g ref="char:EOLhyphen"/>neſſe, ſo forgetfull of thy power, that we do not onely in our wants accuſe and condemne thy Providence, but are ready even to turn infidels in our misfortunes. Make us therefore, O Lord, to ſee the vanity both of the world and our owne hearts, that the pleaſures of it may neither drowne, nor the croſſes of it de<g ref="char:EOLhyphen"/>ject our hope or diſcourage our obedi<g ref="char:EOLhyphen"/>ence. Let that glory which thou haſt promiſed to thoſe that conquer the world for thy ſake, be ever in our eye; that ſo, in whatſoever condition we are in, we may ſtill be found crowned and triumphing in Faith.</p>
+            </div>
+            <div type="meditation">
+               <pb n="85" facs="tcp:170521:47"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Luke. c. 19. v. 9.</hi>
+                     </bibl>
+                     <p>This day is Salvation come to this Houſe.</p>
+                  </q>
+               </epigraph>
+               <p>NO wonder <hi>Zacheus</hi> then made ſuch haſte to come down, and quickly
+<hi>forſooke</hi> the friendly branches at <hi>ſuch Newes. Hee</hi> whoſe ambition
+<hi>climb'd</hi> no <hi>higher</hi> then a <hi>Sight</hi> of Jeſus, was all tranſported at the
+<hi>Honour</hi> of <hi>receiving Him.</hi> Had he been <hi>taller</hi> perhaps, he had not been ſo happy; it was his <hi>Littleneſſe exalted</hi> him, and he who was not onely the
+<hi>Loweſt,</hi> but, perhaps, the <hi>meaneſt</hi> of the Company, for <hi>his</hi> fortune became the <hi>Envie</hi> of the <hi>Multitude.</hi>
+               </p>
+               <p>He that dwells in Everlaſting ſplen<g ref="char:EOLhyphen"/>dours, and treads the Heavens under, expoſed Himſelfe to the <hi>Courteſie</hi> of the <hi>World,</hi> whoſe <hi>Charity</hi> was ſo
+<hi>Cold</hi> that he muſt invite himſelfe, and be be<g ref="char:EOLhyphen"/>holding to a <hi>Sinner</hi> for <hi>his entertainment.</hi> Had the <hi>Princes</hi> of the World but known <hi>Him,</hi> they would have quickly ſure ſur<g ref="char:EOLhyphen"/>rendred up their Thrones, and counted thei<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pallaces too poor a Lodging for the Lord of Glory. And the Vaine
+<pb n="86" facs="tcp:170521:48"/> Jewes whilſt they expect a <hi>Meſſias</hi> all in pompe, a Redeemer that ſhould come into the World in <hi>Majeſty</hi> and <hi>tr umph,</hi> are become not ſo much the <hi>relicks</hi> as <hi>ruines</hi> of a <hi>Nation,</hi> a <hi>wandring Monu<g ref="char:EOLhyphen"/>ment</hi> of prodigious <hi>impiety</hi> throughout the earth.</p>
+               <p>Stand ſtill, ye Monarchs of the World, and behold your Maker now <hi>beneath</hi> you: and if ye have not plac't all your happineſſe in a Kingdome heere, Learn <hi>Humility</hi> from ſo
+<hi>Bleſt</hi> a <hi>Preſident.</hi> He that came to <hi>ſave Sinners</hi> thought it no diſhonour to be in <hi>their</hi> Company; and, as it were to make amends for <hi>his</hi> entertainment, and to make <hi>Zacheus</hi> compleately <hi>happy</hi> He tells him, This day is
+<hi>Salvation</hi> come to <hi>this Houſe.</hi>
+               </p>
+               <p>A <hi>reward</hi> which none beſides <hi>Him<g ref="char:EOLhyphen"/>ſ lfe</hi> could <hi>give,</hi> and which he that <hi>hath,</hi> need never <hi>fear</hi> being <hi>poor</hi> againe. Who would not welcome his
+<hi>Saviour</hi> on ſuch termes, and Sacrifice even all his <hi>fortunes</hi> at <hi>once</hi> to be ſo infinitely <hi>repa 'd?</hi> We cannot make too much <hi>proviſion</hi> for our
+<hi>happineſſe,</hi> nor <hi>welcome Heaven at</hi> too much charge And yet how many are there of ſo ſparing a zeal; they will be at no <hi>Expences</hi> in their Worſhip, like
+<pb n="87" facs="tcp:170521:48"/> the thrifty Diſciple; they will not goe to the Coſt of Serving God Handſomely; How happy was <hi>Zacheus,</hi> whoſe <hi>poore</hi> habitation our Saviour pickt out beyond the reſt to <hi>harbour,</hi> in and Honour with his <hi>preſence:</hi> nor yet was ſo Rich a Mer<g ref="char:EOLhyphen"/>cy confined to <hi>him</hi> alone, but extended to the whole World too; Every family may, if they will, ſhare in the ſame fortune, This day is Salvation come to every one.</p>
+               <p>Hear this then, whoever thou art that Sacrificeſt thy <hi>Soul</hi> to <hi>any thing</hi> but
+<hi>Hea<g ref="char:EOLhyphen"/>ven,</hi> that danceſt to the Muſick of the World, and <hi>makeſt Eternity</hi> a
+<hi>Stranger</hi> to thy thoughts. Canſt thou deny thy Saviour an admiſſion, or thinke it a trou<g ref="char:EOLhyphen"/>ble to leave the fooliſh <hi>intereſts</hi> of the World, and welcome the moſt
+<hi>Holy</hi> Jeſus. Behold the <hi>Miſeries</hi> of our <hi>Na<g ref="char:EOLhyphen"/>tures</hi> which will not be perſwaded to <hi>become happy,</hi> but ſuffer an immortall joy to be loſt for ever in embraces heere.</p>
+               <p>Thou haſt brought us from Nothing, O Lord, that we might ſee thy Salvati<g ref="char:EOLhyphen"/>on; that we who might have been for ever without Thee, might through the
+<pb n="88" facs="tcp:170521:49"/> Knowledge of Thy ſelfe be made par<g ref="char:EOLhyphen"/>takers of thy Glory. O Enliven us that we may give up our ſelves wholly to thy Service, and perpetually ſtudy to do ſomething to the Honour of thy Name, that we may not throw away thoſe Soules on the vanities of the world, which thou haſt given us for Thy ſelfe, and to be employed in thy Ser<g ref="char:EOLhyphen"/>vice: but that, Sacrificing our Wills to Thine, and our lives to a perfect Love of Thee, we may find that joy which ac<g ref="char:EOLhyphen"/>companies thy Grace heere, and that Glory which knows no end or change hereafter in Thy preſence for ever<g ref="char:EOLhyphen"/>more.</p>
+            </div>
+            <div type="meditation">
+               <pb n="89" facs="tcp:170521:49"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Math. Chap. 13. v. 43.</hi>
+                     </bibl>
+                     <p>Then ſhall the Righteous ſhine forth as the Sun, in the Kingdome of their Father.</p>
+                  </q>
+               </epigraph>
+               <p>WHo then would not be ambitious of ſo bright a change, to become purely Coeleſtiall; to have his body turn'd into a Luminary, and every part transformed to luſtre? when man ſhall become not onely a Living ſoul, but a Living ſplendour too; and his immor<g ref="char:EOLhyphen"/>tal breath, in it's reunion, inſtead of parts find beames to quicken.</p>
+               <p>Heare this, ye blind admirers of the world, that look no higher then a Dia<g ref="char:EOLhyphen"/>dem, a purple robe, or ſome honoura<g ref="char:EOLhyphen"/>ble trifle, and ſell your brighteſt inheri<g ref="char:EOLhyphen"/>tance for a ſplendid toy.</p>
+               <p>Heare this, ye Beauries, that carry charmes of Luſtre in your faces, and think your eyes are not onely ſpheares but treaſuries of Light; whoſe attire Emulates the ſtarrs, and carries ſplen<g ref="char:EOLhyphen"/>dour with it; that weare your happineſs on your back, and count a ſilver vanity your Glory.</p>
+               <p>
+                  <pb n="90" facs="tcp:170521:50"/>Heare this, who ever thou art that canſt dote on ſhadowes, the flaſhes of a tranſitory pomp, and for a glorious Mortality bidſt adiew to heaven and an Immortall-bliſſe. Couldſt thou put on a roabe of Starrs, or pull rayes from that Royall luminary that embrightens the world, they would be but gloomy ſplen<g ref="char:EOLhyphen"/>dours, bright obſcurities to that Glory that enwraps a Saint. The luſtre of the heavens is but an emblem of our owne: the Prince of planets that diſhevells his rays, and revels it in ſplendour, the great Magazine that ſtocks the world with light, is but a Curtaine to that Taberna<g ref="char:EOLhyphen"/>cle that ſhall inveſt us.</p>
+               <p>Our toombs are our wardrobes for heaven, and thoſe Chambers of death whoſe hangings are winding ſheets over<g ref="char:EOLhyphen"/>laid with duſt, are the out-rooms that ſtrip us for our robe of immortality; the opening of our Graves is the beginning of our happineſſe, and we are gather'd to our fathers that we may be gather'd to eternity.</p>
+               <p>If that Glimpſe which the Diſciples ſaw in the mount made them wiſh for three tabernacles or an eternall abode there, how ſhall the beauty of revealed
+<pb n="91" facs="tcp:170521:50"/> Heaven, and the glory of an aſcended Saviour, raviſh us with deſires after its enjoyment? It was the Martyrs comfort amidſt their tortures, that though their members were in peeces, yet the haires of their head were numbred. Wert thou bottomed in the ſeas depth, his power can buoy the up, if cruſted into the earths rubbiſh, he can abſtract and forme thee a finer creature then ever thou wert. If <hi>Peters</hi> ſhadow could cure the ſick, how powerfull muſt He be who is <hi>Peters</hi> Glory? He whoſe name is in the Book of Life, dies here but to be laid as it were in a Preſſe, to be extracted a pu<g ref="char:EOLhyphen"/>rer modell for eternity.</p>
+               <p>Who then would not onely deſpiſe the world, but welcome even miſery for ſo invaluable a reward, triumph in his greateſt eclipſe, and become cheer<g ref="char:EOLhyphen"/>full in the midſt of chaines? He that knowes the glory of his inheritance, will little value thoſe pleaſant trifles, thoſe rich nothings the world admires, the painted joyes of an imaginary felicity: but, in nobler and Diviner expectations, prepares himſelfe for that change which knowes none; where he ſhall have no<g ref="char:EOLhyphen"/>thing elſe to do but to live forever, and
+<pb n="92" facs="tcp:170521:51"/> be eternally received as once the Diſci<g ref="char:EOLhyphen"/>ple into the Boſome of his Saviour.</p>
+               <p>Thou didſt make us for thy ſelfe, O Lord; and when we by our ſins and follies had for ever loſt thee, Thou didſt reſtore us to thy ſelfe againe, that we might not be eternally deprived of Thee, our onely Good. O fill us with perpe<g ref="char:EOLhyphen"/>tuall meditations of thy Love, let thoſe joyes which are ſo much above our thoughts, be ever in them; let our inabi<g ref="char:EOLhyphen"/>lity to comprehend the happineſs of thy kingdome heighten the piety of our am<g ref="char:EOLhyphen"/>bition after it more, that we may walke in ſome meaſure worthy of ſo Divine a purchaſe as heaven, and as thou haſt prepared it for us, do thou prepare us for it. Prepare us with all thoſe hea<g ref="char:EOLhyphen"/>venly graces that may entitle us to it, and with all thoſe ſpirituall deſires that may make us breathe and long after it; that ſo our hearts being there before, we our ſelves may come after, and be<g ref="char:EOLhyphen"/>ing tranſported in our deſires may be al<g ref="char:EOLhyphen"/>ſo in our perſons, to everlaſting enjoy<g ref="char:EOLhyphen"/>ments.</p>
+            </div>
+            <div type="meditation">
+               <pb n="93" facs="tcp:170521:51"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Luke 18. v. 11.</hi>
+                     </bibl>
+                     <p>The Phariſee ſtood up and prayed thus; God I thanke thee, that I am not as other men are, &amp;c.</p>
+                  </q>
+               </epigraph>
+               <p>HOw ungratefully does the Proud Phariſee thank heaven? how ſtrangely hath pride altered him? He that uſed to make long prayers, intends to be but ſhort now: <hi>he ſtands up.</hi> He comes not to pray, but to bray; not to adore God but to commend himſelf. Here is not in the humour of being very devout, being ſo taken up and raviſht with his owne graces, that he had ſcarce either the time or the patience to remember the divine Author whoſe goodneſſe he would ſeem to acknowledg, but tis ſo colldy, 'twere better he were unthankfull ſtill. He exceeded other men indeed, for his im<g ref="char:EOLhyphen"/>pudence was ſuperlative.</p>
+               <p>Had he known himſelfe better, he would have been more thankfull, and leſſe proud.</p>
+               <p>How largely doth he urge heaven with his worth, but makes no apology for his Pride: he thanks God indeed, but tis in
+<pb n="94" facs="tcp:170521:52"/> 
+                  <hi>tranſitu,</hi> rather a complement then a Prayer, though it be a ſin to worſhip images, he thinks it none to be his owne idolater; and therefore dares preſent God with a catalogue of his own merits. How perfectly hath the world learnt his leſſon? How do the Catholicke Phariſes pride themſelves in a ſupererogatory de<g ref="char:EOLhyphen"/>votion and thinke to climbe heaven by a ladder of their owne making; glorying in a ſuperabundant piety, and triumph<g ref="char:EOLhyphen"/>ing in a meritorious exceſſe, of dooing even more then they need.</p>
+               <p>How nimbly do our Trembling En<g ref="char:EOLhyphen"/>thuſiaſts too, follow their leaders ſteps here, in a ſanctimonious pride by a ſuper<g ref="char:EOLhyphen"/>cilious purity preſuming to reforme the world, and new modell it, againe: That ſaint themſelves <hi>Stylo novo,</hi> and with the Phariſee not onely thanke but tell God plainly, they are not as other men: That raylingly proclaime themſelves the great light of the world, and in a pious Lunacy would new goſpell it againe, extravagantly proſcribing all religions but their own. Theſe melancholy Preten<g ref="char:EOLhyphen"/>ders ſeclude themſelves from others, and by a ſullen devotion, are become ſo ſtrangely divine, that they have almoſt loſt their humanity.</p>
+               <p>
+                  <pb n="95" facs="tcp:170521:52"/>So that if the Phariſee was not as other men, yet theſe are as like the Phariſee as may be, having ſo exactly learnt both his nature and religion.</p>
+               <p>So naturall is it for us, O Lord, to be deluded even in our beſt Performances; and (whilſt we vainly thinke our ſelves not onely better then others, but good enough, in Thy Sight) to be carried into preſumption. 'Tis humility crownes all our Graces and puts a Beauty on our re<g ref="char:EOLhyphen"/>queſts, whilſt the confidence of our owne merits does not onely deforme but ſeclude us from thee.</p>
+               <p>Teach us therefore with ſuch grati<g ref="char:EOLhyphen"/>tude to uſe thy gifts, that we become not forgetfull of our ſelves or Thee. Whilſt others Pride themſelves in a meritorious ſupererogation, let us in<g ref="char:EOLhyphen"/>deavour humbly to confeſſe and bewaile our imperfections. Let not a ſpirituall Pride ſeiſe upon our ſouls, ſo ſhall we be innocent from the Great Tranſgreſ<g ref="char:EOLhyphen"/>ſion.</p>
+            </div>
+            <div type="meditation">
+               <pb n="96" facs="tcp:170521:53"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Romans Chap. 6. v. 21.</hi>
+                     </bibl>
+                     <p>For the end of thoſe things is death.</p>
+                  </q>
+               </epigraph>
+               <p>WHo then would propoſe that for his happineſſe which ſhall periſh with himſelf, whoſe end is not only death but hell, and will deſtroy him not onely now but hereafter too. Indeed, were there no hope that our remains ſhould revive again, or the ruins of our frame riſe up to a finer ſhape, we might well drown our ſelves in enjoyments heere, and fixe our felicity in pleaſures. Every man might then without ſin become an Epi<g ref="char:EOLhyphen"/>cure, and he that could invent new faſh<g ref="char:EOLhyphen"/>ions of luxury, would not only be more ingenious but more fortunate too. Mo<g ref="char:EOLhyphen"/>rality, would be all vice, &amp; yet vice it ſelf no more a crime but our felicity: not to be extravagant then, were a ſin againſt na<g ref="char:EOLhyphen"/>ture, &amp; he that is moſt Brutiſh would be moſt Rational. Law would then become an enemie to Humanity, there could be no ſociety but in confuſion; and in ſpight of policy (were there no heaven no hell) we ſhould pleaſantly mingle to a chaos, and obey no other diſcipline
+<pb n="97" facs="tcp:170521:53"/> then that of riot. Every one might then turne Atheiſt without ſcandall; to be without God in the world would be no misfortune; every man might be his own without blaſphemy.</p>
+               <p>Could they that live, dye like Brutes too, and revive no more, the comfort of not being damned would be greater then the ſweets of ſin. But alas, he that dies now muſt live againe that his life may be rememberd; nor yet is it ſomuch the feare of Death as the horrours of a guilty conſcence, the terrible preſages of a future eternity that ſcares the depart<g ref="char:EOLhyphen"/>ing ſoul: The pangs of expiring nature are nothing to thoſe ſtings; the memory of our crimes bring with them. The ſor<g ref="char:EOLhyphen"/>rowes of the Grave and our being here no more for ever, are joyes to the mi<g ref="char:EOLhyphen"/>ſeries that are to come.</p>
+               <p>Tell me thou that hug'ſt the world then, and gropeſt for paradiſe in a grove of ſins: thou that makeſt earth thy trea<g ref="char:EOLhyphen"/>ſure, and wrap'ſt up the riches of thy hopes in time's boſome or the encloſure of a ſpan: when thoſe bright and nimble guides of life, thy eyes, ſhall grow weak with age, or weary with paine; when every limbe ſhall become an object of
+<pb n="98" facs="tcp:170521:54"/> ſorrow; and thoſe parts that were ſo of<g ref="char:EOLhyphen"/>ficiouſly employed in ſin, ſhall become inſtruments of deſpaire. When that de<g ref="char:EOLhyphen"/>licious frame, that darling edifice, thy Body, ſhall by its tottering qualmes and trembling convulſions affrighten its diſconſolate owner, how will the flaſhes of a future juſtice and the terrours of thy end confound thee!</p>
+               <p>Can thoſe enjoyments that flattered away thy ſoul reſtore it now? can thoſe pleaſures that ſtole heaven from thee recover it again? can thy vanities aſſwage thy ſorrowes or the memory of thy ſins the miſery of thy end?</p>
+               <p>Where's that muſick whoſe aires, like Davids harpe, might charme the cries of conſcience, and by its ſtraines drop a harmony that might ſtill the trouble of thy anguiſht ſoul?</p>
+               <p>Where are thoſe trophies, thy ambiti<g ref="char:EOLhyphen"/>on purchaſed at the eaſy rate as onely ſinning for that Honour, for which thou haſt ſold heaven? that ſoveraignty for which thou becamſt a ſlave thy ſelfe and loſt the freedome of thy ſoul? Cannot all thy Greatneſſe raiſe thee up a litle, and by a power once ſo much feared and applauded reprieve thee from the grave or a more eternall priſon?</p>
+               <p>
+                  <pb n="99" facs="tcp:170521:54"/>Where are thoſe treaſures thou ſold<g ref="char:EOLhyphen"/>eſt thy beſt inheritance for, whoſe raviſhing ſplendours took away thy ſight and made thee blinder then them<g ref="char:EOLhyphen"/>ſelves? Can they neither bribe nor buy thy pardon? or will the grave know no other fee then ſo rich a miſery?</p>
+               <p>Where are all thoſe diverſions that robb'd thee of thy piety, and the thoughts of thy Maker? thoſe pleaſing vanities that took away all ſenſe of hea<g ref="char:EOLhyphen"/>ven and foreſight of thy end? Are all va<g ref="char:EOLhyphen"/>niſht to a toomb and an unwelcome pe<g ref="char:EOLhyphen"/>riod? are all thy jollities terminated in a Coffin, and no other object left to keep thee company but thy Crimes, and thoſe terrours thy guilt preſents?</p>
+               <p>Behold now then, ye Lovers of the world more then of God, and ſee the picture of your end, thoſe ruines you have ſo ſmoothly built on. Try if all your imaginary felicities are proofe a<g ref="char:EOLhyphen"/>gainſt this ſhaft, or can ſecure you from this intruder, the ſingle Conquerour of the world, whoſe very priſon is but a re<g ref="char:EOLhyphen"/>ſerve for a worſe, and its execution here but a repriefe for a more laſting and yet living death. He that liv'd in pleaſures, muſt live in flames, and having revell'd
+<pb n="100" facs="tcp:170521:55"/> it in ſin, riot it in tortures; and the mi<g ref="char:EOLhyphen"/>ſery is, that wiſhing not to live, he can never die.</p>
+               <p>And yet how vaine are our deſires ſtill after the world, O Lord? how ſoon, how ſmoothly are we led by the falſe and tranſitory pleaſures of this life from Thee? The wages of ſin is death, and yet how fooliſhly do we preferre its ſervice before thine, whoſe reward is life? The end of prophaneſs is eternall ruine, and the pleaſures of impiety period in con<g ref="char:EOLhyphen"/>fuſion; and yet we ſadly embrace the proffers of ſin, before the promiſes of thy glory. Pitty, O Lord, the frailties of our natures, and forgive the irregula<g ref="char:EOLhyphen"/>rities of our lives: fill us with noble de<g ref="char:EOLhyphen"/>ſires after Thee, that the vanities of the world may be our ſcorne, and thy Glo<g ref="char:EOLhyphen"/>ry onely our Ambition; that we may not for a preſent enjoyment in this life, loſe the hopes and inheritance of a better.</p>
+            </div>
+            <div type="meditation">
+               <pb n="101" facs="tcp:170521:55"/>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Luke Chap. 15. v. 10.</hi>
+                     </bibl>
+                     <p>There is joy in the preſence of the An<g ref="char:EOLhyphen"/>gells of God, over one ſinner that repenteth.</p>
+                  </q>
+               </epigraph>
+               <p>SO great are the Concernments of an immortall Soul, that it's recovery from the world ſets heaven in a triumph; and it's return to it's Maker is welcom'd back in Quires: the angells ſing his re<g ref="char:EOLhyphen"/>cantation, and rejoyce as if they them<g ref="char:EOLhyphen"/>ſelves were made happier by his conver<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>And yet is not the joy of Angells greater then that of the ſoul it ſelfe: when it hath found and regain'd it's Maker, its ſighs are turnd into ſongs, and it's teares to raptures: each drop is not onely counted and kept up, but turn'd into a ſtreame of joy. His ſorrowes are turnd to conſolation, his troubles into peace, and the ſtormes of conſcience into calmes of love.</p>
+               <p>Such are the fruits of a holy penitence, the happineſſe of a religious contrition. He that went mourning all the day, and turned Anchoret for greif; whoſe life
+<pb n="102" facs="tcp:170521:56"/> was a torment and the grave his feare, that deſired not to live and yet was afraid to die, is now transformed into ſweeter paſſions, and breathes nothing but the praiſes of his Deliverer.</p>
+               <p>See with what indignation he lookes upon the world, whoſe embraces had ſo long impriſoned him, to whoſe falſe allurements, he had been ſo much a ſer<g ref="char:EOLhyphen"/>vant. Thoſe pleaſant trifles he once ad<g ref="char:EOLhyphen"/>mired are now his contempt, and thoſe ſhadowes of felicity he once ſo much purſued he hath now exchanged for more celeſtiall enjoyments and enduring pleaſures.</p>
+               <p>And indeed, Who that hath once truly taſted heaven can well relliſh the world againe? whoſe choiſeſt feaſts are worſe then an Egyptian diet to this Manna, and its largeſt roade of pleaſure but a preci<g ref="char:EOLhyphen"/>pice to that way whoſe narroweſt path carries freedome and felicity. He that hath once found the goodneſſe of his Maker, and thoſe joyes that flow from his ſervice, will ſacrifice himſelfe in pious reſolves; and grieving that he was ſo long a ſtranger to his law, all tranſpor<g ref="char:EOLhyphen"/>ted beg both pardon and ſupport.</p>
+               <p>Tell me, who can character the pleaſures
+<pb n="103" facs="tcp:170521:56"/> of this new birth, the joyes of a conver<g ref="char:EOLhyphen"/>ted ſoul reſtored to heaven and his ma<g ref="char:EOLhyphen"/>ker? He that feels it can expreſſe it but in raptures, and ſilent ſignes, the ecchoes of his heart. Even the Angells here can ſing it onely, not deſcribe it; and in Se<g ref="char:EOLhyphen"/>raphick conſorts give us notice, not a copy, of it.</p>
+               <p>Thus the heavens become harmoni<g ref="char:EOLhyphen"/>ous, &amp; the frame of nature that groaned under the diſorder of mans ſin, is againe revived and ſet in tune by pardon. And no wonder if the creation feel a ſilent muſicke in it's limbs, when the Lord our Maker is not onely the Author, but a partner in this triumph proclaming even his delight in ſuch happy renovations, and that he is beſt pleaſed when ſinners flie to the refuges of his mercy, and hum<g ref="char:EOLhyphen"/>bly beg the riches of that Grace and fa<g ref="char:EOLhyphen"/>vour, which he onely can give, and which he never refuſes to them that ſeek him.</p>
+               <p>So infinitely good art thou, O Lord, that thou doſt not onely invite but bring us to thy ſelf; and not onely call but cauſe us to returne. We know thou de<g ref="char:EOLhyphen"/>ſireſt not the the death of a ſinner, having ſo freely ſacrificed thy Son for ſin; and
+<pb n="104" facs="tcp:170521:57"/> that thou delighteſt in pardoning it, for thou haſt proclaimed thy ſelf ſo. Though thou didſt not ſpare thine Angells when they fell, yet in the riches of thy mercy thou haſt contrived a Redempti<g ref="char:EOLhyphen"/>on for our ſouls, even by the blood of Jeſus. Fill us with perpetuall adorations of thy love, that thy goodneſſe which is ſo ready to pardon ſin, may encourage us to beg it; and to continue conſtant waiters on thee in thy worſhip here, till we are made companions of thoſe bleſt ſpirits hereafter that rejoyce in the reco<g ref="char:EOLhyphen"/>very and ſalvation of a ſinner.</p>
+            </div>
+            <div type="meditation">
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Matth. c. 6. v. 33.</hi>
+                     </bibl>
+                     <p>But ſeeke yee firſt the Kingdome of God, and his, Righteouſneſſe, and all theſe things ſhall be added unto you.</p>
+                  </q>
+               </epigraph>
+               <p>AND He that loved his Saviour would, no Queſtion, do it: but alaſs, that which ought to be the firſt is ſcarce the laſt of our thoughts, the leaſt and worſt of our performan<g ref="char:EOLhyphen"/>ces.</p>
+               <p>
+                  <pb n="105" facs="tcp:170521:57"/>Such Lovers are wee of Heaven that we think it no ſinne to ſerve our ſelves firſt, and make our Creatour waite the leiſure of our Devotion. Miſerable Creatures, whoſe Religion reaches no higher then their bodyes, for whoſe ve<g ref="char:EOLhyphen"/>ry Superfluities wee ſtudy to provide, whilſt our Brighter part lyes all naked and unthought of. Such Strangers are we even to our own Soules, ſo inſenſible of the joyes to come, that we looke no higher then the World, and in ſphearing all our hopes within Mortality as if we had nothing durable beyond our breath, ſuffer Eternity to be forgotten. Wee cannot live without our Maker, and yet how do our lives neglect Him? how ea<g ref="char:EOLhyphen"/>ger, how ambitious after an enjoyment heere, but carry not the ſmalleſt paſſion for his Glory. The jollities of the World ſwallow up all thoughts of Hea<g ref="char:EOLhyphen"/>ven, and in the pleaſures of ſenſe we can drown Immortality.</p>
+               <p>What is that we ſacrifice our ſelves to, but the hopes of a felicity? The very Pagans rather then want a Bliſſe would fancy one in lovely ſhades, and place the triumphs of immortality in thoſe amo<g ref="char:EOLhyphen"/>rous walkes, their Ghoſts ſhould revell
+<pb n="106" facs="tcp:170521:58"/> in. And who can hope for Heaven that neglects it, or expect the joyes of this Kingdome that looks not after it? With<g ref="char:EOLhyphen"/>out Holyneſſe no man ſhall ſee God, and he cannot be Maſter of much San<g ref="char:EOLhyphen"/>ctity that prophanely loſes himſelfe in ſinne, and is a Stranger to that piety which can truly Enrich Him beyond all the treaſures of the moſt ſplendid and fortunate tranſgreſſion. How miſera<g ref="char:EOLhyphen"/>ble are they then whoſe pleaſures onely divert them from their Maker, and have no other Apologie for their neglect of Heaven, than what ſinne can make; that Court the World, and for a fading em<g ref="char:EOLhyphen"/>brace exchange a Diadem of Bliſſe, a Crown of Life. Were the whole World turn d into a Seraglio of delight, and e<g ref="char:EOLhyphen"/>very region to an Arabia; could every field become a Paradiſe, and every object we meet, bring a Magazine of pleaſure with it; had we all the enjoyments this Life can triumph in; yet we ſhould quickly finde them, without God, but miſerable fruitions. Is there any thing dearer then our lives, and yet even theſe are of no valew in reſpect of a better: the very exigencies of Nature are trifles to the concernments of our Soules. It
+<pb n="107" facs="tcp:170521:58"/> is better to ſtarve, then dye for ever and loſe God; 'tis better to goe na<g ref="char:EOLhyphen"/>ked then not to be cloathed with immor<g ref="char:EOLhyphen"/>tality; 'tis better we ſhould want heere, then hereafter that fullneſſe which knows none.</p>
+               <p>And yet, How many are there that had rather loſe Heaven then the World, pawn their Conſciences ſooner then want, and for a fortune ſell away their very Chriſtianity. How many make ſinne their ſtudy, and thinke it a credit to invent new methods of impiety; and are ſuch carefull providers for E<g ref="char:EOLhyphen"/>ternity, that they will be laboriouſly wicked; and for a profitable iniquity think it no loſs to be thrivingly damn'd. Are there not nobler wayes of living then by loſing our names and Souls at once? Is infidelity a preſervative againſt mi<g ref="char:EOLhyphen"/>ſery? and muſt we build our ſupports on the ruines of our faith? Piety makes no man poorer, nor does religion robbe us of our enjoyments but makes them ſweeter. Our content<g ref="char:EOLhyphen"/>ments are not leſſened but enlarged and lengthned by adoring the Giver, nor is he the further from, but the neerer to a bleſſing, that begins with Heaven, and
+<pb n="108" facs="tcp:170521:59"/> preferres his Saviour before the World. Deſignes thus founded are not ever un<g ref="char:EOLhyphen"/>fortunate, and he that plots for his Soul as well as his body, ſhall learne a policy will bafle the World, and non-plus its wiſeſt Generations; when after all his loſſes he ſhall finde a reward richer then all the revenues of the Earth toge<g ref="char:EOLhyphen"/>ther.</p>
+               <p>And yet ſo inſenſible are we O Lord, both of thy Glory and our own felicity that we can entertaine any thing with more pleaſure then the thoughts of an eternity, we can ſpend the allowance of our time in ſin, and ſacrifice even all our yeares to vice; but count a moment too long, too much to be employed in thy ſervice: we can dwell and drown our ſelves in pleaſures, and think a few ſpare minutes a faire gift of time for our devotion. The treaſures of the world are a poore gaine for the Morgage of a Soul, and the loſſe of thy favour; even the richeſt enjoyments of this life, are but wretched contentments without Thee. Do thou therefore elevate our Souls, and withdraw them from theſe beggerly elements to purer and more celeſtiall
+<pb n="109" facs="tcp:170521:59"/> addreſſes: let thy Kingdome be, not our refuge onely but our choice; and the perfect reſolution of our ſouls to deſpiſe the flatteries of the world, for that glory which nothing but our ſins can deprive us of: And as thou haſt made us for thy ſelf, O Lord, inable us to continue ſo, that as we have received all that we have from thy bounty, we may ſacrifice all our de<g ref="char:EOLhyphen"/>ſires to thy glory: knowing that as no<g ref="char:EOLhyphen"/>thing in this life can make us happy without thee, ſo nothing can make him miſerable that hath Thy Kingdome for his Inheritance.</p>
+            </div>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:170521:60"/>
+            <pb n="111" facs="tcp:170521:60"/>
+            <head>A Prayer.</head>
+            <p>O Lord, who inhabiteſt Eterni<g ref="char:EOLhyphen"/>ty; Thou art Exalted above all Principalities and powers, Saints and Seraphims are raviſhed with thy Glory, Angels and Arch<g ref="char:EOLhyphen"/>angels adore thy Greatneſſe, Ho<g ref="char:EOLhyphen"/>lineſſe and Honour waite upon Thy Throne, the Scepter of thy Kingdome is an everlaſting Scep<g ref="char:EOLhyphen"/>ter, Thou loveſt Righteouſneſſe and hateſt iniquity; and therefore they that come before Thee muſt worſhip Thee in Spirit and in Truth, if they would be either heard or received of Thee: Wee confeſs, we are not worthy to ap<g ref="char:EOLhyphen"/>peare in Thy Preſence, that can preſent unto Thee no other offe<g ref="char:EOLhyphen"/>ring, than Sinfull and deformed Soules, which deſerve no longer to be accounted thine; having loſt
+<pb n="112" facs="tcp:170521:61"/> that purity and likeneſſe which made them ſo.</p>
+            <p>We are not worthy to receive any more tenders of Mercy that have ſo often deſpiſed it, nor to ſee what is the riches of thy Love, that have ſo unworthily preferred the trifles of this Life before the trea<g ref="char:EOLhyphen"/>ſures of thy Grace. Thou mad'ſt it the end of our Creation, that we ſhould Glorifie Thee; but we, of all thy Creatures, have leaſt per<g ref="char:EOLhyphen"/>formed it. That time which we ſhould have employed in adorning and devoting our lives to thy Wor<g ref="char:EOLhyphen"/>ſhip (which is our moſt rationall and religious ſervice) have we Sa<g ref="char:EOLhyphen"/>crificed to ſinne, and the pleaſures of the World.</p>
+            <p>Thou art ſo infinitely Good, that thou deſireſt but unfaigned Sorrow for ſinne to excuſe it; and yet ſo miſerable and deeply guilty are we, that we cannot bring ſo much as humble and contrite Spirits to
+<pb n="113" facs="tcp:170521:61"/> plead for our ſelves. Thou didſt ſo love the World, that Thou ſen<g ref="char:EOLhyphen"/>teſt thy Son to dye for it: But we have ſo lov'd the World, that we have deſpiſed Heaven and our Sa<g ref="char:EOLhyphen"/>viour, rejected the Holy One whom. Thou haſt ſent, and by our unwor<g ref="char:EOLhyphen"/>thy lives diſhonoured that hap<g ref="char:EOLhyphen"/>py Name, whereby we are cal<g ref="char:EOLhyphen"/>led Thine, and intitled to thy King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>But though our ſinnes cry aloud for puniſhment, yet the voyce of thine owne mercy, and Our Savi<g ref="char:EOLhyphen"/>ours blood, begs more powerfully for Pardon. O Let His Sufferings be our reconciliation, his puniſh<g ref="char:EOLhyphen"/>ment for ſin our freedome from it; let the bitterneſſe of thy wrath on Him, be turn'd into the ſweet<g ref="char:EOLhyphen"/>neſſe of thy love to us, that his croſſe may be our triumph, and the merits of his paſſion the purchaſe of our peace; and grant that having obtai<g ref="char:EOLhyphen"/>ned mercy, we may walk accor<g ref="char:EOLhyphen"/>dingly;
+<pb n="114" facs="tcp:170521:62"/> that being bought for hea<g ref="char:EOLhyphen"/>ven, we may no more ſell our ſelves to ſin, nor prefer a few moments of pleaſure before an eternity of joy.</p>
+            <p>Make us to conſider thoſe Divine ties that bind us to ſerve Thee, the infinit and abundant teſtimonies of thy love which invite our grati<g ref="char:EOLhyphen"/>tude, and that happineſſe which is the reward of them that ſeek Thee: O let not the motions of ſinne be more powerfull in us than the obli<g ref="char:EOLhyphen"/>gations of thy grace, nor the plea<g ref="char:EOLhyphen"/>ſures of this life of more value to us than the joyes that are to come. But make us to walke cheerfully in that way which thou haſt ſet before us, that our temptations may but ſtrengthen us more; that neither the croſſes nor yet the pleaſures of this life may be able to deject or drowne our piety; but that in whatſoever condition wee are, we may be ſtill found crowned and triumphing in faith.</p>
+            <p>
+               <pb n="115" facs="tcp:170521:62"/>O thou infinite Goodneſs, teach us to a dore Thee with our whole heart, and to conforme our lives unto thy law with a perfect conſtancy. Make us to conſider that exceeding weight of glory which thou haſt promiſed to thoſe that ſtrive to conquer the world for thy ſake. O let thoſe joyes which are ſo much above our thoughts be ever in them; let our inability to comprehend the hap<g ref="char:EOLhyphen"/>pineſſe of thy kingdome, heighten the piety of our Ambition after it more: that the greater thy goodneſſe is, the greater may our deſire after it be, the greater thy love the greater our obedience, and the leſſer our deſerts the greater our humility.</p>
+            <p>Make us to ſee the litle uſe, but the great vanity of this world, that ſo the pleaſures of it may not ſteale away our hearts from the contem<g ref="char:EOLhyphen"/>plation of a better; but that our lives may be a perfect and perpetuall ſa<g ref="char:EOLhyphen"/>crifice of obedience, ever pleaſing in
+<pb n="116" facs="tcp:170521:63"/> thy eyes. O let thy ſervice be ever moſt delightfull to us, that we may labour to improove our ſelves be<g ref="char:EOLhyphen"/>fore Thee, by our inward and onely deſires after thee; that whatever defects attend our actions this may be inſeparable in us, even to feare thy name. That ſo leading holy lives here, we may lead happy and hea<g ref="char:EOLhyphen"/>venly lives hereafter, and being filled with Righteouſneſſe, we may be fil<g ref="char:EOLhyphen"/>led with glory and poſſeſſe joyes un<g ref="char:EOLhyphen"/>ſpeakable for evermore.</p>
+         </div>
+         <div n="penitential" type="prayer">
+            <pb n="117" facs="tcp:170521:63"/>
+            <head>A Poenitentiall Prayer.</head>
+            <p>THe fleſh evermore rebelleth againſt the ſpirit in me, O my God; and the infirmities of my na<g ref="char:EOLhyphen"/>ture are too ſtrong for me of my ſelf to conquer. Behold how my frail<g ref="char:EOLhyphen"/>ties fight againſt my ſoul, and have wounded me before thee. O ſhall my ſins be ſtronger then thy grace, and the errours of my life more powerfull then thy law? The pious incenſe of a contrite ſpirit is a ſacri<g ref="char:EOLhyphen"/>fice thou doſt not uſally deſpiſe; and O that I could exhale my ſelfe in ſhowres, and drop away my ſoul in teares, that my iniquities could fly away in ſighs, and the guilt of my life be wip't off in religious ſtreams. Pitty my irregularities, O Lord, and forgive my crimes: how long ſhall I groan under the bondage of ſin, and weary thee too with the burden
+<pb n="118" facs="tcp:170521:64"/> of my corruptions. Thou delight'ſt to pardon ſin, and ſhall mine re<g ref="char:EOLhyphen"/>maine? Thou deſireſt not the death of thy creatures, and ſhall I be for<g ref="char:EOLhyphen"/>ſaken? I cannot live without Thee nor enjoy the comfort of my very being till thou revive me: 'tis better I had not beene, than that I ſhould loſe Thee; and 'tis better I ſhould be no more for ever, then not regain and find Thee. Return, O thou com<g ref="char:EOLhyphen"/>fort of my ſoule, and fill me with thy love. Purge the ſtains and waſh away the blemiſhes of my life by thine own blood, renew &amp; quicken my ſpirit with the joyes of Thine. Sanctifie my will with a pleaſing obedience unto thine, let the merits of my Saviour's righteouſneſs beau<g ref="char:EOLhyphen"/>tifie my ſoule, cloathing me with innocence and purity of heart here, and everlaſting immortality in thy kingdome hereafter.</p>
+         </div>
+         <div n="thanksgiving" type="prayer">
+            <pb n="119" facs="tcp:170521:64"/>
+            <head>A Prayer of Thanksgiving.</head>
+            <p>MY deare and glorious Maker, what ſhall I render unto Thee for all thy mercies? There hath not a moment of my life paſt by, with<g ref="char:EOLhyphen"/>out being made happy to me by ſome token of thy love. Thou didſt purifie my birth by Baptiſm, I was no ſooner come into the world but thou didſt ſeale me for Heaven, taking away the guilt which no in<g ref="char:EOLhyphen"/>nocency but that of Jeſus could conceal or pardon; and aboliſhing thoſe characters of ſin and death, which were ſo inſeparably imprin<g ref="char:EOLhyphen"/>ted on my nature, that no law but that of thy ſpirit could wipe away; and having brought mee into the boſome of thine owne Spouſe, and plac't me amongſt thy children, haſt fed me with continuall mercies and meanes of grace: that I might ſee
+<pb n="120" facs="tcp:170521:65"/> there hath been no defect in thy goodneſs, but my acknowledgments, nor in thy promiſes but my perform<g ref="char:EOLhyphen"/>ances. And indeed, my God, I can<g ref="char:EOLhyphen"/>not looke upon theſe obligations without horrour for my ingratitude, nor remember theſe pretious teſti<g ref="char:EOLhyphen"/>monies of thy love without a reli<g ref="char:EOLhyphen"/>gious confuſion of ſoul for my great neglect and forgetfullneſſe of thee. Nor can I plead an excuſe in the weakeneſſe of nature onely, for thoſe ſins I have been too willing a comit<g ref="char:EOLhyphen"/>ter of. And yet my God, behold how thou haſt loved me, ſending thy ſon to reconcile me to thy ſelfe, that I might find acceſs unto thy Throne, and inherit the joyes of thy kingdom. Behold how thou haſt loved me in reprieving me from that wrath my ſins have long ago deſerved, and as if thou didſt not or wouldſt not take notice of my crimes, haſt made me an object of thy care and an example of thy love, aboun<g ref="char:EOLhyphen"/>ding
+<pb n="121" facs="tcp:170521:65"/> in perpetuall diſpenſations of mercy to my ſoul. I will therfore ſa<g ref="char:EOLhyphen"/>crifice my ſelfe, O Lord, in prayſes to thy name, and in the memory of thy goodneſſe keep an everlaſting Jubilee in my ſoul, thou haſt ſhewn me the way unto thy Selfe and that in Thee onely are hid all the treaſures of my happineſſe. I will be no longer then a ſervant to the world, and beſtow the nobler ad<g ref="char:EOLhyphen"/>dreſſes of my ſoul on periſhing and empty nothings; and for a poor fu<g ref="char:EOLhyphen"/>gitive drop here below, loſe Thee the ocean of bliſs and glory. And that I may deſpiſe the flatteries of the world, O Lord, do thou inſpire me with deſires after Thee only, and inable me to do ſomething for thy ſake, who haſt don ſomuch to make me happy; that ſo my life may be a ſacrifice of obedience ever plea<g ref="char:EOLhyphen"/>ſing in thy eyes.</p>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <pb facs="tcp:170521:66"/>
+            <pb facs="tcp:170521:66"/>
+            <head>The Index.</head>
+            <p>Meditations on
+<list>
+                  <item>
+                     <hi>Eccleſ. 12. v. 1.</hi> Remember now thy Creatour in the dayes of thy Youth. <hi>Fol.
+1.</hi>
+                  </item>
+                  <item>
+                     <hi>Gen. 12. v. 8.</hi> And the Lord God Planted a Garden Eaſt-ward in Eden.
+<hi>5</hi>
+                  </item>
+                  <item>
+                     <hi>1 Kings 10. v. 18.</hi> Moreover the King made a great throne of Ivory, and over-laid it with the best Gold. <hi>9.</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:170521:67"/>
+                     <hi>1 Kings 19.9.</hi> And He came thither unto a Cave, and lodged there.
+<hi>11</hi>
+                  </item>
+                  <item>
+                     <hi>Job 11.10.</hi> In all this, did not <hi>Job</hi> ſin with his Lips. <hi>14</hi>
+                  </item>
+                  <item>
+                     <hi>Canticles 2.1.</hi> I am the Roſe of Sharon, and the Lillie of the Valleys.
+<hi>17</hi>
+                  </item>
+                  <item>
+                     <hi>Gen. 28.12.</hi> And he dreamed, and behold a Lad<g ref="char:EOLhyphen"/>der ſet upon the Earth, <hi>&amp;c.
+19</hi>
+                  </item>
+                  <item>
+                     <hi>Prov. 18.14.</hi> But a wounded Spirit who can beare? <hi>23</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:170521:67"/>
+                     <hi>Eccleſ. 12.13.</hi> Feare God and keep his Commande<g ref="char:EOLhyphen"/>ments, <hi>&amp;c.
+27</hi>
+                  </item>
+                  <item>
+                     <hi>Luke 10.25.</hi> And a certaine Lawyer ſtood up and Tempted him, ſaying, Maſter, What ſhall I do, <hi>&amp;c. 31</hi>
+                  </item>
+                  <item>
+                     <hi>Matth. 15.28.</hi> And He ſaid unto her, O woman great is thy faith. <hi>35</hi>
+                  </item>
+                  <item>
+                     <hi>Joh. 20.11.</hi> And ſhe stooped down, and looked into the ſepulcher.
+<hi>39</hi>
+                  </item>
+                  <item>
+                     <hi>John 11.35.</hi> Jeſus wept. <hi>42</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:170521:68"/>
+                     <hi>Joh. 12.2.</hi> But Lazarus was one of thoſe that ſate at the Table with Him.
+<hi>45</hi>
+                  </item>
+                  <item>
+                     <hi>Joh. 13.23.</hi> Now there was Leaning on Jeſus Bo<g ref="char:EOLhyphen"/>ſome, one of his Diſciples whom Jeſus, loved. <hi>48</hi>
+                  </item>
+                  <item>
+                     <hi>Matth. 16.26.</hi> For what is a man profited, if he gaine the whole world, and loſe,
+<hi>&amp;c. 51</hi>
+                  </item>
+                  <item>
+                     <hi>Matth. 5. v. 8.</hi> Bleſſed are the Pure in heart, for they ſhall ſee God.
+<hi>56</hi>
+                  </item>
+                  <item>
+                     <hi>Matth. 8.2.</hi> Lord if thou wilt, Thou canſt make me cleane. <hi>60</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:170521:68"/>
+                     <hi>Matth. 24.39.</hi> And knew not, untill the flood came and took them all away.
+<hi>64</hi>
+                  </item>
+                  <item>
+                     <hi>Luke 7.5.</hi> For He Loved our Nation, and hath built us a Synagogue. <hi>67</hi>
+                  </item>
+                  <item>
+                     <hi>Luke 9.57.</hi> Lord I will follow Thee whereſoever Thou goeſt. <hi>71</hi>
+                  </item>
+                  <item>
+                     <hi>Matth. 9.38.</hi> Pray yee therefore the Lord of the Harveſt, that he would ſend forth more labourers into his Harveſt. <hi>75</hi>
+                  </item>
+                  <item>
+                     <hi>Matth. 2.10.</hi> And when they ſaw the Star, they rejoyced with exceeding, <hi>&amp;c.
+78</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:170521:69"/>
+                     <hi>Philip. 4.12.</hi> I know both how to abound and to ſuffer need.
+<hi>81</hi>
+                  </item>
+                  <item>
+                     <hi>Luke. 19.9.</hi> This day, is Salvation come to this houſe. <hi>85</hi>
+                  </item>
+                  <item>
+                     <hi>Matth. 13.43.</hi> Then ſhall the Righteous ſhine forth as the Sun, <hi>&amp;c.
+89</hi>
+                  </item>
+                  <item>
+                     <hi>Luke 18.11.</hi> The Phariſee stood up and prayed thus, God I thank thee, <hi>&amp;c.
+93</hi>
+                  </item>
+                  <item>
+                     <hi>Rom. c. 6. v. 21.</hi> For the end of thoſe things is Death. <hi>96</hi>
+                  </item>
+                  <item>
+                     <pb facs="tcp:170521:69"/>Luke c. 15. v. 10. There is joy in the preſence of the Angells of God, over one ſinner that repenteth. <hi>101</hi>
+                  </item>
+                  <item>
+                     <hi>Matth. c. 6. v. 33.</hi> But ſeek ye first the Kingdome of God, and his Righteouſneſſe, and all theſe things ſhall be added unto you. <hi>104</hi>
+                  </item>
+               </list>
+               <list>
+                  <item>A Prayer. <hi>111</hi>
+                  </item>
+                  <item>A Penitentiall Prayer. <hi>114</hi>
+                  </item>
+                  <item>A Prayer of Thankſgiving. <hi>119</hi>
+                  </item>
+               </list>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
